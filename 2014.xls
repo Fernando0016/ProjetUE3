@@ -1,0 +1,1833 @@
+<!doctype html>
+<!--[if lt IE 7 ]> <html lang="fr" class="no-js lt-ie10 lt-ie9 lt-ie8 lt-ie7"  lang="fr" dir="ltr"> <![endif]-->
+<!--[if IE 7 ]>    <html lang="fr" class="no-js lt-ie10 lt-ie9 lt-ie8"  lang="fr" dir="ltr"> <![endif]-->
+<!--[if IE 8 ]>    <html lang="fr" class="no-js lt-ie10 lt-ie9"  lang="fr" dir="ltr"> <![endif]-->
+<!--[if IE 9 ]>    <html lang="fr" class="no-js lt-ie10"  lang="fr" dir="ltr"> <![endif]-->
+<!--[if (gt IE 9)|!(IE)]><!--> <html lang="fr" class="no-js"  lang="fr" dir="ltr"> <!--<![endif]-->
+
+    <!-- head -->
+    <head profile="http://www.w3.org/1999/xhtml/vocab">
+        <meta charset="utf-8" />
+<link rel="shortcut icon" href="https://www.scansante.fr/sites/all/themes/stats_atih_theme/favicon.ico" type="image/vnd.microsoft.icon" />
+        <title>MCO par GHM ou racine | Stats ATIH</title>
+
+        <!-- CSS -->
+        <link type="text/css" rel="stylesheet" href="https://www.scansante.fr/sites/default/files/css/css_kShW4RPmRstZ3SpIC-ZvVGNFVAi0WEMuCnI0ZkYIaFw.css" media="all" />
+<link type="text/css" rel="stylesheet" href="https://www.scansante.fr/sites/default/files/css/css_mOHw-EOqptDtbV_xGOTddl3_QjhA5H9XCwyHVRPGTHc.css" media="all" />
+<link type="text/css" rel="stylesheet" href="https://www.scansante.fr/sites/default/files/css/css_qHrRFJ3eoEOsWVltXP6y-fVMyjxGdCFFzwmS6FeVW6Y.css" media="all" />
+<style>#sliding-popup.sliding-popup-bottom,#sliding-popup.sliding-popup-bottom .eu-cookie-withdraw-banner,.eu-cookie-withdraw-tab{background:#0779bf;}#sliding-popup.sliding-popup-bottom.eu-cookie-withdraw-wrapper{background:transparent}#sliding-popup .popup-content #popup-text h1,#sliding-popup .popup-content #popup-text h2,#sliding-popup .popup-content #popup-text h3,#sliding-popup .popup-content #popup-text p,#sliding-popup label,#sliding-popup div,.eu-cookie-compliance-secondary-button,.eu-cookie-withdraw-tab{color:#fff !important;}.eu-cookie-withdraw-tab{border-color:#fff;}.eu-cookie-compliance-more-button{color:#fff !important;}
+</style>
+<link type="text/css" rel="stylesheet" href="https://www.scansante.fr/sites/default/files/ressources/js/tablesorter/themes/blue/style.css" media="all" />
+<link type="text/css" rel="stylesheet" href="https://www.scansante.fr/sites/default/files/ressources/js/tablesorter/addons/pager/jquery.tablesorter.pager.css" media="all" />
+<style>
+</style>
+<link type="text/css" rel="stylesheet" href="https://www.scansante.fr/sites/default/files/css/css_DZEzYR5zfTs1X3rbv5KhKgD-_rZ9L369AwAmi9EsUTk.css" media="all" />
+<link type="text/css" rel="stylesheet" href="https://www.scansante.fr/sites/default/files/css/css_6oQzuZ__11SOhwcDDV22pSE18KyUbvx_l-cxF_4fU7g.css" media="all" />
+            
+    </head>
+
+    <!-- body -->
+    <body class="html not-front not-logged-in no-sidebars page-applications page-applications-statistiques-activite-mco-par-ghm page-applications-statistiques-activite-mco-par-ghm-vuexl section-applications"   style="min-width:1200px;">
+
+        <!-- Page -->
+        <div id="body"  style="min-width:1200px;">           
+                        <!-- header -->
+
+<!-- Content -->
+<div id="content" role="main" style="min-width:1200px;">
+    <div class="center">
+            <!-- Content -->   
+            <div class="wrap-content-main">
+    <div id="block-stats-atih-content-stats-atih-content-main-top" class="block block-stats-atih-content first odd">
+
+  
+<div class="wrap-content-main-top">
+
+    <!-- top -->
+    
+    </div>
+</div><!-- /.block -->
+
+
+<div class="snatih"><a name="menu"> <h1> Ensemble des établissements - 2014 </h1> </a><h2> France Entière </h2><h3> Racine 04M09 : Tumeurs de l'appareil respiratoire                                                                                                                                                                       </h3><hr size="3">
+<a class="norm stats" href="#stat"> Statistiques de la racine de GHM </a><br><a class="norm stats" href="#dp"> Répartition des diagnostics principaux </a><br><a class="norm stats" href="#da"> Répartition des diagnostics associés </a><br><a class="norm stats" href="#actec"> Répartition des actes classants </a><br><a class="norm stats" href="#actenc"> Répartition des actes non classants </a><br><hr size="3">
+<br><a name="stat"> <h1> Statistiques de la racine de GHM </h1> </a><br><div class="branch">
+<a name="IDX"></a>
+<div>
+<div align="center">
+<table class="table" cellspacing="0" cellpadding="5" rules="all" frame="box" summary="Procedure Report: Detailed and/or summarized report">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td class="l data" style=" width: 7cm;">Effectif</td>
+<td class="r data" style=" width: 2cm;">            47 058</td>
+</tr>
+<tr>
+<td class="l data" style=" width: 7cm;">Durée moyenne de séjour (en nuitée)</td>
+<td class="r data" style=" width: 2cm;">              8,98</td>
+</tr>
+<tr>
+<td class="l data" style=" width: 7cm;">Ecart-Type</td>
+<td class="r data" style=" width: 2cm;">             11,06</td>
+</tr>
+<tr>
+<td class="l data" style=" width: 7cm;">Variance</td>
+<td class="r data" style=" width: 2cm;">            122,41</td>
+</tr>
+<tr>
+<td class="l data" style=" width: 7cm;">Coefficient de variation</td>
+<td class="r data" style=" width: 2cm;">            123,27</td>
+</tr>
+<tr>
+<td class="l data" style=" width: 7cm;">Durée de séjour Minimale (en nuitée)</td>
+<td class="r data" style=" width: 2cm;">                 0</td>
+</tr>
+<tr>
+<td class="l data" style=" width: 7cm;">Durée de séjour Maximale (en nuitée)</td>
+<td class="r data" style=" width: 2cm;">               321</td>
+</tr>
+<tr>
+<td class="l data" style=" width: 7cm;">Mode de la durée de séjour (en nuitée)</td>
+<td class="r data" style=" width: 2cm;">                 1</td>
+</tr>
+<tr>
+<td class="l data" style=" width: 7cm;">Médiane de la durée de séjour (en nuitée)</td>
+<td class="r data" style=" width: 2cm;">              5,00</td>
+</tr>
+<tr>
+<td class="l data" style=" width: 7cm;">10ème percentile de la durée de séjour (en nuitée)</td>
+<td class="r data" style=" width: 2cm;">              0,00</td>
+</tr>
+<tr>
+<td class="l data" style=" width: 7cm;">95ème percentile de la durée de séjour (en nuitée)</td>
+<td class="r data" style=" width: 2cm;">             30,00</td>
+</tr>
+<tr>
+<td class="l data" style=" width: 7cm;">Nombre de Décès</td>
+<td class="r data" style=" width: 2cm;">             7 641</td>
+</tr>
+<tr>
+<td class="l data" style=" width: 7cm;">Pourcentage de Décès</td>
+<td class="r data" style=" width: 2cm;">             16,24</td>
+</tr>
+<tr>
+<td class="l data" style=" width: 7cm;">Age Moyen</td>
+<td class="r data" style=" width: 2cm;">             67,35</td>
+</tr>
+<tr>
+<td class="l data" style=" width: 7cm;">Ecart-Type de l'age</td>
+<td class="r data" style=" width: 2cm;">             12,53</td>
+</tr>
+<tr>
+<td class="l data" style=" width: 7cm;">Nombre moyen de diagnostics associés</td>
+<td class="r data" style=" width: 2cm;">              5,54</td>
+</tr>
+<tr>
+<td class="l data" style=" width: 7cm;">Nombre moyen d'actes</td>
+<td class="r data" style=" width: 2cm;">              5,64</td>
+</tr>
+<tr>
+<td class="l data" style=" width: 7cm;">Nombre moyen d'actes classants</td>
+<td class="r data" style=" width: 2cm;">              0,71</td>
+</tr>
+<tr>
+<td class="l data" style=" width: 7cm;">Nombre moyen d'actes non classants</td>
+<td class="r data" style=" width: 2cm;">              4,93</td>
+</tr>
+</tbody>
+</table>
+</div>
+</div>
+<br>
+</div><br><a name="stat"> <h1> Répartition par niveau de sévérité </h1> </a><br><div class="branch">
+<a name="IDX"></a>
+<div>
+<div align="center">
+<table class="table" cellspacing="0" cellpadding="5" rules="all" frame="box" summary="Procedure Report: Detailed and/or summarized report">
+<colgroup>
+<col>
+<col>
+<col>
+<col>
+<col>
+</colgroup>
+<thead><tr>
+<th class="c header" scope="col">% Niveau T</th>
+<th class="c header" scope="col">% Niveau 1</th>
+<th class="c header" scope="col">% Niveau 2</th>
+<th class="c header" scope="col">% Niveau 3</th>
+<th class="c header" scope="col">% Niveau 4</th>
+</tr></thead>
+<tbody><tr>
+<td class="r data">                23,5 %</td>
+<td class="r data">                18,7 %</td>
+<td class="r data">                20,8 %</td>
+<td class="r data">                29,6 %</td>
+<td class="r data">                 7,4 %</td>
+</tr></tbody>
+</table>
+</div>
+</div>
+<br>
+</div><h1> Distribution de la durée de séjour (en nuitée) </h1><br><div class="branch">
+<a name="IDX"></a>
+<div>
+<div class="c">
+<img alt="Bar chart of num" src="https://www.scansante.fr/applications/statistiques-activite-MCO-par-GHM/img/MqwP0jZ5Yb8uoCerhRxD1GmfcOLav6UyIX9HntAETJ4dQ3psWK_1572960960" style=" border-width: 0px; height: 600px; width: 1000px;" border="0" class="c graph">
+</div>
+</div>
+<br>
+</div><hr size="3">
+<br><a class="norm stats" href="#menu"> Retour au menu </a><a name="dp"> <h1> Répartition par diagnostics principaux</h1> </a><br><div class="branch">
+<a name="IDX"></a>
+<div>
+<div align="center">
+<table class="table" cellspacing="0" cellpadding="5" rules="all" frame="box" summary="Procedure Report: Detailed and/or summarized report">
+<colgroup>
+<col>
+<col>
+<col>
+<col>
+<col>
+<col>
+</colgroup>
+<thead><tr>
+<th class="c header" scope="col">Rang</th>
+<th class="c header" scope="col">Code</th>
+<th class="c header" scope="col">Libellé</th>
+<th class="c header" scope="col">Effectif</th>
+<th class="c header" scope="col">%</th>
+<th class="c header" scope="col">DMS</th>
+</tr></thead>
+<tbody>
+<tr>
+<td class="c data" style=" width: 1cm;">        1</td>
+<td class="c data" style=" width: 2cm;">C349</td>
+<td class="l data" style=" width: 12cm;">T.M. DE BRONCHE OU DU POUMON, SAI</td>
+<td class="r data" style=" width: 2cm;">            13 907</td>
+<td class="r data" style=" width: 2cm;">                29,6 %</td>
+<td class="r data" style=" width: 2cm;">              9,69</td>
+</tr>
+<tr>
+<td class="c data" style=" width: 1cm;">        2</td>
+<td class="c data" style=" width: 2cm;">C341</td>
+<td class="l data" style=" width: 12cm;">T.M. DU LOBE SUP., BRONCHES OU POUMON</td>
+<td class="r data" style=" width: 2cm;">            10 990</td>
+<td class="r data" style=" width: 2cm;">                23,4 %</td>
+<td class="r data" style=" width: 2cm;">              9,14</td>
+</tr>
+<tr>
+<td class="c data" style=" width: 1cm;">        3</td>
+<td class="c data" style=" width: 2cm;">C343</td>
+<td class="l data" style=" width: 12cm;">T.M. DU LOBE INF., BRONCHES OU POUMON</td>
+<td class="r data" style=" width: 2cm;">             4 884</td>
+<td class="r data" style=" width: 2cm;">                10,4 %</td>
+<td class="r data" style=" width: 2cm;">              9,29</td>
+</tr>
+<tr>
+<td class="c data" style=" width: 1cm;">        4</td>
+<td class="c data" style=" width: 2cm;">C780</td>
+<td class="l data" style=" width: 12cm;">T.M. IIRE. DU POUMON</td>
+<td class="r data" style=" width: 2cm;">             4 522</td>
+<td class="r data" style=" width: 2cm;">                 9,6 %</td>
+<td class="r data" style=" width: 2cm;">              7,13</td>
+</tr>
+<tr>
+<td class="c data" style=" width: 1cm;">        5</td>
+<td class="c data" style=" width: 2cm;">C782</td>
+<td class="l data" style=" width: 12cm;">T.M. IIRE. DE LA PLEVRE</td>
+<td class="r data" style=" width: 2cm;">             2 798</td>
+<td class="r data" style=" width: 2cm;">                 5,9 %</td>
+<td class="r data" style=" width: 2cm;">              9,41</td>
+</tr>
+<tr>
+<td class="c data" style=" width: 1cm;">        6</td>
+<td class="c data" style=" width: 2cm;">D381</td>
+<td class="l data" style=" width: 12cm;">T. EV. IMPR., INC. DE LA TRACHEE, DES BRONCHES ET DU POUMON</td>
+<td class="r data" style=" width: 2cm;">             2 446</td>
+<td class="r data" style=" width: 2cm;">                 5,2 %</td>
+<td class="r data" style=" width: 2cm;">              6,56</td>
+</tr>
+<tr>
+<td class="c data" style=" width: 1cm;">        7</td>
+<td class="c data" style=" width: 2cm;">C348</td>
+<td class="l data" style=" width: 12cm;">T.M. A LOC. CONTIGUES DES BRONCHES ET DU POUMON</td>
+<td class="r data" style=" width: 2cm;">             2 027</td>
+<td class="r data" style=" width: 2cm;">                 4,3 %</td>
+<td class="r data" style=" width: 2cm;">             10,07</td>
+</tr>
+<tr>
+<td class="c data" style=" width: 1cm;">        8</td>
+<td class="c data" style=" width: 2cm;">C340</td>
+<td class="l data" style=" width: 12cm;">T.M. DE LA BRONCHE SOUCHE</td>
+<td class="r data" style=" width: 2cm;">             1 632</td>
+<td class="r data" style=" width: 2cm;">                 3,5 %</td>
+<td class="r data" style=" width: 2cm;">             10,73</td>
+</tr>
+<tr>
+<td class="c data" style=" width: 1cm;">        9</td>
+<td class="c data" style=" width: 2cm;">C342</td>
+<td class="l data" style=" width: 12cm;">T.M. DU LOBE MOY., BRONCHES OU POUMON</td>
+<td class="r data" style=" width: 2cm;">               841</td>
+<td class="r data" style=" width: 2cm;">                 1,8 %</td>
+<td class="r data" style=" width: 2cm;">             10,15</td>
+</tr>
+<tr>
+<td class="c data" style=" width: 1cm;">       10</td>
+<td class="c data" style=" width: 2cm;">C450</td>
+<td class="l data" style=" width: 12cm;">MESOTHELIOME DE LA PLEVRE</td>
+<td class="r data" style=" width: 2cm;">               699</td>
+<td class="r data" style=" width: 2cm;">                 1,5 %</td>
+<td class="r data" style=" width: 2cm;">              8,99</td>
+</tr>
+<tr>
+<td class="c data" style=" width: 1cm;">       11</td>
+<td class="c data" style=" width: 2cm;">D143</td>
+<td class="l data" style=" width: 12cm;">T.B. DES BRONCHES ET DU POUMON</td>
+<td class="r data" style=" width: 2cm;">               326</td>
+<td class="r data" style=" width: 2cm;">                 0,7 %</td>
+<td class="r data" style=" width: 2cm;">              2,82</td>
+</tr>
+<tr>
+<td class="c data" style=" width: 1cm;">       12</td>
+<td class="c data" style=" width: 2cm;">C384</td>
+<td class="l data" style=" width: 12cm;">T.M. DE LA PLEVRE</td>
+<td class="r data" style=" width: 2cm;">               325</td>
+<td class="r data" style=" width: 2cm;">                 0,7 %</td>
+<td class="r data" style=" width: 2cm;">              9,71</td>
+</tr>
+<tr>
+<td class="c data" style=" width: 1cm;">       13</td>
+<td class="c data" style=" width: 2cm;">D383</td>
+<td class="l data" style=" width: 12cm;">T. EV. IMPR., INC. DU MEDIASTIN</td>
+<td class="r data" style=" width: 2cm;">               234</td>
+<td class="r data" style=" width: 2cm;">                 0,5 %</td>
+<td class="r data" style=" width: 2cm;">              5,33</td>
+</tr>
+<tr>
+<td class="c data" style=" width: 1cm;">       14</td>
+<td class="c data" style=" width: 2cm;">C33</td>
+<td class="l data" style=" width: 12cm;">T.M. DE LA TRACHEE</td>
+<td class="r data" style=" width: 2cm;">               207</td>
+<td class="r data" style=" width: 2cm;">                 0,4 %</td>
+<td class="r data" style=" width: 2cm;">              5,88</td>
+</tr>
+<tr>
+<td class="c data" style=" width: 1cm;">       15</td>
+<td class="c data" style=" width: 2cm;">C383</td>
+<td class="l data" style=" width: 12cm;">T.M. DU MEDIASTIN, PARTIE SAI</td>
+<td class="r data" style=" width: 2cm;">               205</td>
+<td class="r data" style=" width: 2cm;">                 0,4 %</td>
+<td class="r data" style=" width: 2cm;">              7,68</td>
+</tr>
+<tr>
+<td class="c data" style=" width: 1cm;">       16</td>
+<td class="c data" style=" width: 2cm;">C781</td>
+<td class="l data" style=" width: 12cm;">T.M. IIRE. DU MEDIASTIN</td>
+<td class="r data" style=" width: 2cm;">               190</td>
+<td class="r data" style=" width: 2cm;">                 0,4 %</td>
+<td class="r data" style=" width: 2cm;">              7,23</td>
+</tr>
+<tr>
+<td class="c data" style=" width: 1cm;">       17</td>
+<td class="c data" style=" width: 2cm;">C37</td>
+<td class="l data" style=" width: 12cm;">T.M. DU THYMUS</td>
+<td class="r data" style=" width: 2cm;">               154</td>
+<td class="r data" style=" width: 2cm;">                 0,3 %</td>
+<td class="r data" style=" width: 2cm;">              5,90</td>
+</tr>
+<tr>
+<td class="c data" style=" width: 1cm;">       18</td>
+<td class="c data" style=" width: 2cm;">C783</td>
+<td class="l data" style=" width: 12cm;">T.M. IIRE. DES ORG. RESP., NCA OU SAI</td>
+<td class="r data" style=" width: 2cm;">               146</td>
+<td class="r data" style=" width: 2cm;">                 0,3 %</td>
+<td class="r data" style=" width: 2cm;">              8,12</td>
+</tr>
+<tr>
+<td class="c data" style=" width: 1cm;">       19</td>
+<td class="c data" style=" width: 2cm;">D022</td>
+<td class="l data" style=" width: 12cm;">CARC. IN SITU DES BRONCHES ET DU POUMON</td>
+<td class="r data" style=" width: 2cm;">               116</td>
+<td class="r data" style=" width: 2cm;">                 0,2 %</td>
+<td class="r data" style=" width: 2cm;">              5,64</td>
+</tr>
+<tr>
+<td class="c data" style=" width: 1cm;">       20</td>
+<td class="c data" style=" width: 2cm;">C381</td>
+<td class="l data" style=" width: 12cm;">T.M. DU MEDIASTIN ANT.</td>
+<td class="r data" style=" width: 2cm;">               113</td>
+<td class="r data" style=" width: 2cm;">                 0,2 %</td>
+<td class="r data" style=" width: 2cm;">              7,10</td>
+</tr>
+<tr>
+<td class="c data" style=" width: 1cm;">       21</td>
+<td class="c data" style=" width: 2cm;">D382</td>
+<td class="l data" style=" width: 12cm;">T. EV. IMPR., INC. DE LA PLEVRE</td>
+<td class="r data" style=" width: 2cm;">                74</td>
+<td class="r data" style=" width: 2cm;">                 0,2 %</td>
+<td class="r data" style=" width: 2cm;">              8,05</td>
+</tr>
+<tr>
+<td class="c data" style=" width: 1cm;">       22</td>
+<td class="c data" style=" width: 2cm;">D142</td>
+<td class="l data" style=" width: 12cm;">T.B. DE LA TRACHEE</td>
+<td class="r data" style=" width: 2cm;">                48</td>
+<td class="r data" style=" width: 2cm;">                 0,1 %</td>
+<td class="r data" style=" width: 2cm;">              3,31</td>
+</tr>
+<tr>
+<td class="c data" style=" width: 1cm;">       23</td>
+<td class="c data" style=" width: 2cm;">D152</td>
+<td class="l data" style=" width: 12cm;">T.B. DU MEDIASTIN</td>
+<td class="r data" style=" width: 2cm;">                43</td>
+<td class="r data" style=" width: 2cm;">                 0,1 %</td>
+<td class="r data" style=" width: 2cm;">              2,47</td>
+</tr>
+<tr>
+<td class="c data" style=" width: 1cm;">       24</td>
+<td class="c data" style=" width: 2cm;">D150</td>
+<td class="l data" style=" width: 12cm;">T.B. DU THYMUS</td>
+<td class="r data" style=" width: 2cm;">                33</td>
+<td class="r data" style=" width: 2cm;">                 0,1 %</td>
+<td class="r data" style=" width: 2cm;">              2,85</td>
+</tr>
+<tr>
+<td class="c data" style=" width: 1cm;">       25</td>
+<td class="c data" style=" width: 2cm;">C382</td>
+<td class="l data" style=" width: 12cm;">T.M. DU MEDIASTIN POST.</td>
+<td class="r data" style=" width: 2cm;">                29</td>
+<td class="r data" style=" width: 2cm;">                 0,1 %</td>
+<td class="r data" style=" width: 2cm;">              4,10</td>
+</tr>
+<tr>
+<td class="c data" style=" width: 1cm;">       26</td>
+<td class="c data" style=" width: 2cm;">D384</td>
+<td class="l data" style=" width: 12cm;">T. EV. IMPR., INC. DU THYMUS</td>
+<td class="r data" style=" width: 2cm;">                27</td>
+<td class="r data" style=" width: 2cm;">                 0,1 %</td>
+<td class="r data" style=" width: 2cm;">              6,70</td>
+</tr>
+<tr>
+<td class="c data" style=" width: 1cm;">       27</td>
+<td class="c data" style=" width: 2cm;">D167</td>
+<td class="l data" style=" width: 12cm;">T.B. DES COTES, DU STERNUM ET DE LA CLAVICULE</td>
+<td class="r data" style=" width: 2cm;">                24</td>
+<td class="r data" style=" width: 2cm;">                 0,1 %</td>
+<td class="r data" style=" width: 2cm;">              2,04</td>
+</tr>
+</tbody>
+</table>
+</div>
+</div>
+<br><table class="systitleandfootercontainer" width="100%" cellspacing="1" cellpadding="1" rules="none" frame="void" summary="Page Layout"><tr>
+<td class="l systemfooter">Des résultats sont masqués en raison du secret statistique (effectif inférieur à 11).</td>
+</tr></table>
+<br>
+</div><hr size="3">
+<br><a class="norm stats" href="#menu"> Retour au menu </a><a name="da"> <h1> Répartition des diagnostics associés</h1> </a><br><div class="branch">
+<a name="IDX"></a>
+<div>
+<div align="center">
+<table class="table" cellspacing="0" cellpadding="5" rules="all" frame="box" summary="Procedure Report: Detailed and/or summarized report">
+<colgroup>
+<col>
+<col>
+<col>
+<col>
+<col>
+<col>
+<col>
+</colgroup>
+<thead><tr>
+<th class="c header" scope="col">Rang</th>
+<th class="c header" scope="col">Code</th>
+<th class="c header" scope="col">Libellé</th>
+<th class="c header" scope="col">Effectif</th>
+<th class="c header" scope="col">%</th>
+<th class="c header" scope="col">DMS</th>
+<th class="c header" scope="col">Niveau de sévérité</th>
+</tr></thead>
+<tbody>
+<tr>
+<td class="c data" style=" width: 1cm;">        1</td>
+<td class="c data" style=" width: 2cm;">I10</td>
+<td class="l data" style=" width: 12cm;">HYPERTENSION ESSENTIELLE</td>
+<td class="r data" style=" width: 2cm;">             8 337</td>
+<td class="r data" style=" width: 2cm;">                 3,2 %</td>
+<td class="r data" style=" width: 2cm;">             11,28</td>
+<td class="c data" style=" width: 2cm;">1</td>
+</tr>
+<tr>
+<td class="c data" style=" width: 1cm;">        2</td>
+<td class="c data" style=" width: 2cm;">C795</td>
+<td class="l data" style=" width: 12cm;">T.M. IIRE. DES OS ET DE LA MOELLE OSSEUSE</td>
+<td class="r data" style=" width: 2cm;">             7 999</td>
+<td class="r data" style=" width: 2cm;">                 3,1 %</td>
+<td class="r data" style=" width: 2cm;">             14,22</td>
+<td class="c data" style=" width: 2cm;">2</td>
+</tr>
+<tr>
+<td class="c data" style=" width: 1cm;">        3</td>
+<td class="c data" style=" width: 2cm;">C787</td>
+<td class="l data" style=" width: 12cm;">T.M. IIRE. DU FOIE ET V.B. INTRAHEP.</td>
+<td class="r data" style=" width: 2cm;">             5 525</td>
+<td class="r data" style=" width: 2cm;">                 2,1 %</td>
+<td class="r data" style=" width: 2cm;">             13,19</td>
+<td class="c data" style=" width: 2cm;">2</td>
+</tr>
+<tr>
+<td class="c data" style=" width: 1cm;">        4</td>
+<td class="c data" style=" width: 2cm;">Z515</td>
+<td class="l data" style=" width: 12cm;">SOINS PALLIATIFS</td>
+<td class="r data" style=" width: 2cm;">             5 432</td>
+<td class="r data" style=" width: 2cm;">                 2,1 %</td>
+<td class="r data" style=" width: 2cm;">             17,66</td>
+<td class="c data" style=" width: 2cm;">3</td>
+</tr>
+<tr>
+<td class="c data" style=" width: 1cm;">        5</td>
+<td class="c data" style=" width: 2cm;">C793</td>
+<td class="l data" style=" width: 12cm;">T.M. IIRE. DU CERVEAU ET DES MENINGES CEREB.</td>
+<td class="r data" style=" width: 2cm;">             5 051</td>
+<td class="r data" style=" width: 2cm;">                 1,9 %</td>
+<td class="r data" style=" width: 2cm;">             13,54</td>
+<td class="c data" style=" width: 2cm;">2</td>
+</tr>
+<tr>
+<td class="c data" style=" width: 1cm;">        6</td>
+<td class="c data" style=" width: 2cm;">R53+0</td>
+<td class="l data" style=" width: 12cm;">ALTERATION [BAISSE] DE L'ETAT GENERAL</td>
+<td class="r data" style=" width: 2cm;">             4 913</td>
+<td class="r data" style=" width: 2cm;">                 1,9 %</td>
+<td class="r data" style=" width: 2cm;">             14,36</td>
+<td class="c data" style=" width: 2cm;">1</td>
+</tr>
+<tr>
+<td class="c data" style=" width: 1cm;">        7</td>
+<td class="c data" style=" width: 2cm;">Z511</td>
+<td class="l data" style=" width: 12cm;">SEANCE DE CHIMIOTHERAPIE POUR TUM.</td>
+<td class="r data" style=" width: 2cm;">             4 644</td>
+<td class="r data" style=" width: 2cm;">                 1,8 %</td>
+<td class="r data" style=" width: 2cm;">             18,59</td>
+<td class="c data" style=" width: 2cm;">3</td>
+</tr>
+<tr>
+<td class="c data" style=" width: 1cm;">        8</td>
+<td class="c data" style=" width: 2cm;">J91</td>
+<td class="l data" style=" width: 12cm;">EPANCHEMENT PLEURAL AVEC MAL. CL. AILL.</td>
+<td class="r data" style=" width: 2cm;">             4 102</td>
+<td class="r data" style=" width: 2cm;">                 1,6 %</td>
+<td class="r data" style=" width: 2cm;">             12,98</td>
+<td class="c data" style=" width: 2cm;">2</td>
+</tr>
+<tr>
+<td class="c data" style=" width: 1cm;">        9</td>
+<td class="c data" style=" width: 2cm;">E43</td>
+<td class="l data" style=" width: 12cm;">MALNUTRITION PROTEINO-ENERGETIQUE GRAVE, SAI</td>
+<td class="r data" style=" width: 2cm;">             3 817</td>
+<td class="r data" style=" width: 2cm;">                 1,5 %</td>
+<td class="r data" style=" width: 2cm;">             17,40</td>
+<td class="c data" style=" width: 2cm;">3</td>
+</tr>
+<tr>
+<td class="c data" style=" width: 1cm;">       10</td>
+<td class="c data" style=" width: 2cm;">C771</td>
+<td class="l data" style=" width: 12cm;">T.M. IIRE OU SAI DES GGL. LYMPH. INTRATHOR.</td>
+<td class="r data" style=" width: 2cm;">             3 632</td>
+<td class="r data" style=" width: 2cm;">                 1,4 %</td>
+<td class="r data" style=" width: 2cm;">             11,02</td>
+<td class="c data" style=" width: 2cm;">2</td>
+</tr>
+<tr>
+<td class="c data" style=" width: 1cm;">       11</td>
+<td class="c data" style=" width: 2cm;">E440</td>
+<td class="l data" style=" width: 12cm;">MALNUTRITION PROTEINO-ENERGETIQUE MODEREE</td>
+<td class="r data" style=" width: 2cm;">             3 602</td>
+<td class="r data" style=" width: 2cm;">                 1,4 %</td>
+<td class="r data" style=" width: 2cm;">             16,41</td>
+<td class="c data" style=" width: 2cm;">3</td>
+</tr>
+<tr>
+<td class="c data" style=" width: 1cm;">       12</td>
+<td class="c data" style=" width: 2cm;">C780</td>
+<td class="l data" style=" width: 12cm;">T.M. IIRE. DU POUMON</td>
+<td class="r data" style=" width: 2cm;">             3 489</td>
+<td class="r data" style=" width: 2cm;">                 1,3 %</td>
+<td class="r data" style=" width: 2cm;">             11,83</td>
+<td class="c data" style=" width: 2cm;">1</td>
+</tr>
+<tr>
+<td class="c data" style=" width: 1cm;">       13</td>
+<td class="c data" style=" width: 2cm;">C349</td>
+<td class="l data" style=" width: 12cm;">T.M. DE BRONCHE OU DU POUMON, SAI</td>
+<td class="r data" style=" width: 2cm;">             3 369</td>
+<td class="r data" style=" width: 2cm;">                 1,3 %</td>
+<td class="r data" style=" width: 2cm;">             15,98</td>
+<td class="c data" style=" width: 2cm;">1</td>
+</tr>
+<tr>
+<td class="c data" style=" width: 1cm;">       14</td>
+<td class="c data" style=" width: 2cm;">J448</td>
+<td class="l data" style=" width: 12cm;">MAL. PULM. OBSTRU. CHRON. PREC., NCA</td>
+<td class="r data" style=" width: 2cm;">             3 188</td>
+<td class="r data" style=" width: 2cm;">                 1,2 %</td>
+<td class="r data" style=" width: 2cm;">             10,38</td>
+<td class="c data" style=" width: 2cm;">1</td>
+</tr>
+<tr>
+<td class="c data" style=" width: 1cm;">       15</td>
+<td class="c data" style=" width: 2cm;">R060</td>
+<td class="l data" style=" width: 12cm;">DYSPNEE</td>
+<td class="r data" style=" width: 2cm;">             2 869</td>
+<td class="r data" style=" width: 2cm;">                 1,1 %</td>
+<td class="r data" style=" width: 2cm;">             12,20</td>
+<td class="c data" style=" width: 2cm;">1</td>
+</tr>
+<tr>
+<td class="c data" style=" width: 1cm;">       16</td>
+<td class="c data" style=" width: 2cm;">C782</td>
+<td class="l data" style=" width: 12cm;">T.M. IIRE. DE LA PLEVRE</td>
+<td class="r data" style=" width: 2cm;">             2 764</td>
+<td class="r data" style=" width: 2cm;">                 1,1 %</td>
+<td class="r data" style=" width: 2cm;">             13,55</td>
+<td class="c data" style=" width: 2cm;">2</td>
+</tr>
+<tr>
+<td class="c data" style=" width: 1cm;">       17</td>
+<td class="c data" style=" width: 2cm;">C797</td>
+<td class="l data" style=" width: 12cm;">T.M. IIRE. DE LA GLD. SURRENALE</td>
+<td class="r data" style=" width: 2cm;">             2 761</td>
+<td class="r data" style=" width: 2cm;">                 1,1 %</td>
+<td class="r data" style=" width: 2cm;">             14,13</td>
+<td class="c data" style=" width: 2cm;">2</td>
+</tr>
+<tr>
+<td class="c data" style=" width: 1cm;">       18</td>
+<td class="c data" style=" width: 2cm;">J90</td>
+<td class="l data" style=" width: 12cm;">EPANCHEMENT PLEURAL, NCA</td>
+<td class="r data" style=" width: 2cm;">             2 462</td>
+<td class="r data" style=" width: 2cm;">                 0,9 %</td>
+<td class="r data" style=" width: 2cm;">             13,15</td>
+<td class="c data" style=" width: 2cm;">2</td>
+</tr>
+<tr>
+<td class="c data" style=" width: 1cm;">       19</td>
+<td class="c data" style=" width: 2cm;">E1198</td>
+<td class="l data" style=" width: 12cm;">DIABETE TYPE 2 NON INSULINOTRAITE OU SAI, SANS COMPLIC.</td>
+<td class="r data" style=" width: 2cm;">             2 312</td>
+<td class="r data" style=" width: 2cm;">                 0,9 %</td>
+<td class="r data" style=" width: 2cm;">             11,01</td>
+<td class="c data" style=" width: 2cm;">1</td>
+</tr>
+<tr>
+<td class="c data" style=" width: 1cm;">       20</td>
+<td class="c data" style=" width: 2cm;">C341</td>
+<td class="l data" style=" width: 12cm;">T.M. DU LOBE SUP., BRONCHES OU POUMON</td>
+<td class="r data" style=" width: 2cm;">             2 259</td>
+<td class="r data" style=" width: 2cm;">                 0,9 %</td>
+<td class="r data" style=" width: 2cm;">             15,64</td>
+<td class="c data" style=" width: 2cm;">1</td>
+</tr>
+<tr>
+<td class="c data" style=" width: 1cm;">       21</td>
+<td class="c data" style=" width: 2cm;">D630</td>
+<td class="l data" style=" width: 12cm;">ANEMIE AVEC MAL. TUMORALES</td>
+<td class="r data" style=" width: 2cm;">             2 220</td>
+<td class="r data" style=" width: 2cm;">                 0,9 %</td>
+<td class="r data" style=" width: 2cm;">             16,14</td>
+<td class="c data" style=" width: 2cm;">2</td>
+</tr>
+<tr>
+<td class="c data" style=" width: 1cm;">       22</td>
+<td class="c data" style=" width: 2cm;">Z713</td>
+<td class="l data" style=" width: 12cm;">SURV. ET CONSEILS DIETETIQUES</td>
+<td class="r data" style=" width: 2cm;">             2 153</td>
+<td class="r data" style=" width: 2cm;">                 0,8 %</td>
+<td class="r data" style=" width: 2cm;">             14,05</td>
+<td class="c data" style=" width: 2cm;">1</td>
+</tr>
+<tr>
+<td class="c data" style=" width: 1cm;">       23</td>
+<td class="c data" style=" width: 2cm;">J960</td>
+<td class="l data" style=" width: 12cm;">INSUF. RESP. AIG.</td>
+<td class="r data" style=" width: 2cm;">             1 860</td>
+<td class="r data" style=" width: 2cm;">                 0,7 %</td>
+<td class="r data" style=" width: 2cm;">             14,71</td>
+<td class="c data" style=" width: 2cm;">3</td>
+</tr>
+<tr>
+<td class="c data" style=" width: 1cm;">       24</td>
+<td class="c data" style=" width: 2cm;">Z452</td>
+<td class="l data" style=" width: 12cm;">AJUST. D'UN DISPOSITIF D'ACCES VASC.</td>
+<td class="r data" style=" width: 2cm;">             1 798</td>
+<td class="r data" style=" width: 2cm;">                 0,7 %</td>
+<td class="r data" style=" width: 2cm;">             16,56</td>
+<td class="c data" style=" width: 2cm;">2</td>
+</tr>
+<tr>
+<td class="c data" style=" width: 1cm;">       25</td>
+<td class="c data" style=" width: 2cm;">Z7580</td>
+<td class="l data" style=" width: 12cm;">PERSON. ADRESSEE DANS UN AUTRE ETAB. POUR REALISATION D'UN ACTE</td>
+<td class="r data" style=" width: 2cm;">             1 786</td>
+<td class="r data" style=" width: 2cm;">                 0,7 %</td>
+<td class="r data" style=" width: 2cm;">             17,24</td>
+<td class="c data" style=" width: 2cm;">1</td>
+</tr>
+<tr>
+<td class="c data" style=" width: 1cm;">       26</td>
+<td class="c data" style=" width: 2cm;">R042</td>
+<td class="l data" style=" width: 12cm;">HEMOPTYSIE</td>
+<td class="r data" style=" width: 2cm;">             1 752</td>
+<td class="r data" style=" width: 2cm;">                 0,7 %</td>
+<td class="r data" style=" width: 2cm;">             11,34</td>
+<td class="c data" style=" width: 2cm;">2</td>
+</tr>
+<tr>
+<td class="c data" style=" width: 1cm;">       27</td>
+<td class="c data" style=" width: 2cm;">R634</td>
+<td class="l data" style=" width: 12cm;">PERTE DE POIDS ANL.</td>
+<td class="r data" style=" width: 2cm;">             1 626</td>
+<td class="r data" style=" width: 2cm;">                 0,6 %</td>
+<td class="r data" style=" width: 2cm;">             14,05</td>
+<td class="c data" style=" width: 2cm;">2</td>
+</tr>
+<tr>
+<td class="c data" style=" width: 1cm;">       28</td>
+<td class="c data" style=" width: 2cm;">R5218</td>
+<td class="l data" style=" width: 12cm;">DOULEURS CHRON. IRREDUCTIBLES, NCA/SAI</td>
+<td class="r data" style=" width: 2cm;">             1 586</td>
+<td class="r data" style=" width: 2cm;">                 0,6 %</td>
+<td class="r data" style=" width: 2cm;">             16,65</td>
+<td class="c data" style=" width: 2cm;">2</td>
+</tr>
+<tr>
+<td class="c data" style=" width: 1cm;">       29</td>
+<td class="c data" style=" width: 2cm;">R410</td>
+<td class="l data" style=" width: 12cm;">DESORIENTATION, SAI</td>
+<td class="r data" style=" width: 2cm;">             1 553</td>
+<td class="r data" style=" width: 2cm;">                 0,6 %</td>
+<td class="r data" style=" width: 2cm;">             18,65</td>
+<td class="c data" style=" width: 2cm;">2</td>
+</tr>
+<tr>
+<td class="c data" style=" width: 1cm;">       30</td>
+<td class="c data" style=" width: 2cm;">F172</td>
+<td class="l data" style=" width: 12cm;">TBL. MENT. DUS A TABAC : SYND. DE DEPENDANCE</td>
+<td class="r data" style=" width: 2cm;">             1 307</td>
+<td class="r data" style=" width: 2cm;">                 0,5 %</td>
+<td class="r data" style=" width: 2cm;">             12,05</td>
+<td class="c data" style=" width: 2cm;">1</td>
+</tr>
+<tr>
+<td class="c data" style=" width: 1cm;">       31</td>
+<td class="c data" style=" width: 2cm;">R630</td>
+<td class="l data" style=" width: 12cm;">ANOREXIE</td>
+<td class="r data" style=" width: 2cm;">             1 275</td>
+<td class="r data" style=" width: 2cm;">                 0,5 %</td>
+<td class="r data" style=" width: 2cm;">             15,78</td>
+<td class="c data" style=" width: 2cm;">2</td>
+</tr>
+<tr>
+<td class="c data" style=" width: 1cm;">       32</td>
+<td class="c data" style=" width: 2cm;">J981</td>
+<td class="l data" style=" width: 12cm;">COLLAPSUS PULM.</td>
+<td class="r data" style=" width: 2cm;">             1 264</td>
+<td class="r data" style=" width: 2cm;">                 0,5 %</td>
+<td class="r data" style=" width: 2cm;">             13,82</td>
+<td class="c data" style=" width: 2cm;">2</td>
+</tr>
+<tr>
+<td class="c data" style=" width: 1cm;">       33</td>
+<td class="c data" style=" width: 2cm;">I7020</td>
+<td class="l data" style=" width: 12cm;">ATHEROSCLEROSE DES ART. DISTALES SANS GANGRENE</td>
+<td class="r data" style=" width: 2cm;">             1 203</td>
+<td class="r data" style=" width: 2cm;">                 0,5 %</td>
+<td class="r data" style=" width: 2cm;">             11,68</td>
+<td class="c data" style=" width: 2cm;">1</td>
+</tr>
+<tr>
+<td class="c data" style=" width: 1cm;">       34</td>
+<td class="c data" style=" width: 2cm;">Z921</td>
+<td class="l data" style=" width: 12cm;">ATCD. PERS. D'UTIL. A LONG TERME D'ANTICOAGULANTS</td>
+<td class="r data" style=" width: 2cm;">             1 185</td>
+<td class="r data" style=" width: 2cm;">                 0,5 %</td>
+<td class="r data" style=" width: 2cm;">             11,54</td>
+<td class="c data" style=" width: 2cm;">1</td>
+</tr>
+<tr>
+<td class="c data" style=" width: 1cm;">       35</td>
+<td class="c data" style=" width: 2cm;">E780</td>
+<td class="l data" style=" width: 12cm;">HYPERCHOLESTEROLEMIE ESSENTIELLE</td>
+<td class="r data" style=" width: 2cm;">             1 151</td>
+<td class="r data" style=" width: 2cm;">                 0,4 %</td>
+<td class="r data" style=" width: 2cm;">             10,61</td>
+<td class="c data" style=" width: 2cm;">1</td>
+</tr>
+<tr>
+<td class="c data" style=" width: 1cm;">       36</td>
+<td class="c data" style=" width: 2cm;">E8718</td>
+<td class="l data" style=" width: 12cm;">HYPONATREMIES, NCA ET SAI</td>
+<td class="r data" style=" width: 2cm;">             1 143</td>
+<td class="r data" style=" width: 2cm;">                 0,4 %</td>
+<td class="r data" style=" width: 2cm;">             16,32</td>
+<td class="c data" style=" width: 2cm;">2</td>
+</tr>
+<tr>
+<td class="c data" style=" width: 1cm;">       37</td>
+<td class="c data" style=" width: 2cm;">I489</td>
+<td class="l data" style=" width: 12cm;">FIBRILLATION ET FLUTTER AURICULAIRES, SAI</td>
+<td class="r data" style=" width: 2cm;">             1 125</td>
+<td class="r data" style=" width: 2cm;">                 0,4 %</td>
+<td class="r data" style=" width: 2cm;">             13,33</td>
+<td class="c data" style=" width: 2cm;">2</td>
+</tr>
+<tr>
+<td class="c data" style=" width: 1cm;">       38</td>
+<td class="c data" style=" width: 2cm;">Z926</td>
+<td class="l data" style=" width: 12cm;">ATCD. PERS. DE CHIMIOTHERAPIE POUR TUM.</td>
+<td class="r data" style=" width: 2cm;">             1 120</td>
+<td class="r data" style=" width: 2cm;">                 0,4 %</td>
+<td class="r data" style=" width: 2cm;">              7,74</td>
+<td class="c data" style=" width: 2cm;">1</td>
+</tr>
+<tr>
+<td class="c data" style=" width: 1cm;">       39</td>
+<td class="c data" style=" width: 2cm;">I255</td>
+<td class="l data" style=" width: 12cm;">MYOCARDIOPATHIE ISCHEM.</td>
+<td class="r data" style=" width: 2cm;">             1 107</td>
+<td class="r data" style=" width: 2cm;">                 0,4 %</td>
+<td class="r data" style=" width: 2cm;">             12,07</td>
+<td class="c data" style=" width: 2cm;">1</td>
+</tr>
+<tr>
+<td class="c data" style=" width: 1cm;">       40</td>
+<td class="c data" style=" width: 2cm;">R91</td>
+<td class="l data" style=" width: 12cm;">RES. ANX. D'IMAGE DU POUMON</td>
+<td class="r data" style=" width: 2cm;">             1 100</td>
+<td class="r data" style=" width: 2cm;">                 0,4 %</td>
+<td class="r data" style=" width: 2cm;">             10,69</td>
+<td class="c data" style=" width: 2cm;">1</td>
+</tr>
+<tr>
+<td class="c data" style=" width: 1cm;">       41</td>
+<td class="c data" style=" width: 2cm;">J9600</td>
+<td class="l data" style=" width: 12cm;">INSUF. RESP. AIG. TYPE I</td>
+<td class="r data" style=" width: 2cm;">             1 086</td>
+<td class="r data" style=" width: 2cm;">                 0,4 %</td>
+<td class="r data" style=" width: 2cm;">             15,19</td>
+<td class="c data" style=" width: 2cm;">3</td>
+</tr>
+<tr>
+<td class="c data" style=" width: 1cm;">       42</td>
+<td class="c data" style=" width: 2cm;">C343</td>
+<td class="l data" style=" width: 12cm;">T.M. DU LOBE INF., BRONCHES OU POUMON</td>
+<td class="r data" style=" width: 2cm;">             1 070</td>
+<td class="r data" style=" width: 2cm;">                 0,4 %</td>
+<td class="r data" style=" width: 2cm;">             15,46</td>
+<td class="c data" style=" width: 2cm;">1</td>
+</tr>
+<tr>
+<td class="c data" style=" width: 1cm;">       43</td>
+<td class="c data" style=" width: 2cm;">R53+2</td>
+<td class="l data" style=" width: 12cm;">FATIGUE [ASTHENIE]</td>
+<td class="r data" style=" width: 2cm;">             1 064</td>
+<td class="r data" style=" width: 2cm;">                 0,4 %</td>
+<td class="r data" style=" width: 2cm;">             13,63</td>
+<td class="c data" style=" width: 2cm;">1</td>
+</tr>
+<tr>
+<td class="c data" style=" width: 1cm;">       44</td>
+<td class="c data" style=" width: 2cm;">E1190</td>
+<td class="l data" style=" width: 12cm;">DIABETE TYPE 2 INSULINOTRAITE, SANS COMPLIC.</td>
+<td class="r data" style=" width: 2cm;">             1 045</td>
+<td class="r data" style=" width: 2cm;">                 0,4 %</td>
+<td class="r data" style=" width: 2cm;">             13,81</td>
+<td class="c data" style=" width: 2cm;">2</td>
+</tr>
+<tr>
+<td class="c data" style=" width: 1cm;">       45</td>
+<td class="c data" style=" width: 2cm;">Z923</td>
+<td class="l data" style=" width: 12cm;">ATCD. PERS. D'IRRAD.</td>
+<td class="r data" style=" width: 2cm;">             1 034</td>
+<td class="r data" style=" width: 2cm;">                 0,4 %</td>
+<td class="r data" style=" width: 2cm;">              8,43</td>
+<td class="c data" style=" width: 2cm;">1</td>
+</tr>
+<tr>
+<td class="c data" style=" width: 1cm;">       46</td>
+<td class="c data" style=" width: 2cm;">C786</td>
+<td class="l data" style=" width: 12cm;">T.M. IIRE. DU RETROPERITOINE ET DU PERITOINE</td>
+<td class="r data" style=" width: 2cm;">             1 025</td>
+<td class="r data" style=" width: 2cm;">                 0,4 %</td>
+<td class="r data" style=" width: 2cm;">             13,05</td>
+<td class="c data" style=" width: 2cm;">2</td>
+</tr>
+<tr>
+<td class="c data" style=" width: 1cm;">       47</td>
+<td class="c data" style=" width: 2cm;">R2630</td>
+<td class="l data" style=" width: 12cm;">ETAT GRABATAIRE</td>
+<td class="r data" style=" width: 2cm;">               990</td>
+<td class="r data" style=" width: 2cm;">                 0,4 %</td>
+<td class="r data" style=" width: 2cm;">             18,13</td>
+<td class="c data" style=" width: 2cm;">3</td>
+</tr>
+<tr>
+<td class="c data" style=" width: 1cm;">       48</td>
+<td class="c data" style=" width: 2cm;">J961+0</td>
+<td class="l data" style=" width: 12cm;">INSUF. RESP. CHRON. OBSTRU.</td>
+<td class="r data" style=" width: 2cm;">               989</td>
+<td class="r data" style=" width: 2cm;">                 0,4 %</td>
+<td class="r data" style=" width: 2cm;">             11,61</td>
+<td class="c data" style=" width: 2cm;">2</td>
+</tr>
+<tr>
+<td class="c data" style=" width: 1cm;">       49</td>
+<td class="c data" style=" width: 2cm;">C509</td>
+<td class="l data" style=" width: 12cm;">T.M. DU SEIN, SAI</td>
+<td class="r data" style=" width: 2cm;">               917</td>
+<td class="r data" style=" width: 2cm;">                 0,4 %</td>
+<td class="r data" style=" width: 2cm;">              8,97</td>
+<td class="c data" style=" width: 2cm;">1</td>
+</tr>
+<tr>
+<td class="c data" style=" width: 1cm;">       50</td>
+<td class="c data" style=" width: 2cm;">F1724</td>
+<td class="l data" style=" width: 12cm;">DÉPENDANCE AU TABAC UTIL ACTUELLE</td>
+<td class="r data" style=" width: 2cm;">               868</td>
+<td class="r data" style=" width: 2cm;">                 0,3 %</td>
+<td class="r data" style=" width: 2cm;">             11,10</td>
+<td class="c data" style=" width: 2cm;">1</td>
+</tr>
+</tbody>
+</table>
+</div>
+</div>
+<br><table class="systitleandfootercontainer" width="100%" cellspacing="1" cellpadding="1" rules="none" frame="void" summary="Page Layout"><tr>
+<td class="l systemfooter">Des résultats sont masqués en raison du secret statistique (effectif inférieur à 11).</td>
+</tr></table>
+<br>
+</div><a class="norm stats" href="https://www.scansante.fr/applications/statistiques-activite-MCO-par-GHM/submit?base=0&amp;annee=2014&amp;ghm=04M09&amp;tgeo=fe&amp;codegeo=99&amp;suite=dgs" target="_blank">Voir la liste complète...</a><hr size="3">
+<br><a class="norm stats" href="#menu"> Retour au menu </a><a name="actec"> <h1> Répartition des actes classants</h1> </a><br><div class="branch">
+<a name="IDX"></a>
+<div>
+<div align="center">
+<table class="table" cellspacing="0" cellpadding="5" rules="all" frame="box" summary="Procedure Report: Detailed and/or summarized report">
+<colgroup>
+<col>
+<col>
+<col>
+<col>
+<col>
+<col>
+<col>
+</colgroup>
+<thead><tr>
+<th class="c header" scope="col">Rang</th>
+<th class="c header" scope="col">Code</th>
+<th class="c header" scope="col">Libellé</th>
+<th class="c header" scope="col">Effectif</th>
+<th class="c header" scope="col">%</th>
+<th class="c header" scope="col">DMS</th>
+<th class="c header" scope="col">Classant dans la racine</th>
+</tr></thead>
+<tbody>
+<tr>
+<td class="c data" style=" width: 1cm;">        1</td>
+<td class="c data" style=" width: 2cm;">GEQE007</td>
+<td class="l data" style=" width: 12cm;">FIBRO BR.</td>
+<td class="r data" style=" width: 2cm;">            10 033</td>
+<td class="r data" style=" width: 2cm;">                30,1 %</td>
+<td class="r data" style=" width: 2cm;">             13,31</td>
+<td class="c data" style=" width: 2cm;">NON</td>
+</tr>
+<tr>
+<td class="c data" style=" width: 1cm;">        2</td>
+<td class="c data" style=" width: 2cm;">ZZLP025</td>
+<td class="l data" style=" width: 12cm;">AG/LR CPLMTAIRE NIVEAU 1</td>
+<td class="r data" style=" width: 2cm;">             5 253</td>
+<td class="r data" style=" width: 2cm;">                15,8 %</td>
+<td class="r data" style=" width: 2cm;">             10,08</td>
+<td class="c data" style=" width: 2cm;">NON</td>
+</tr>
+<tr>
+<td class="c data" style=" width: 1cm;">        3</td>
+<td class="c data" style=" width: 2cm;">EBLA003</td>
+<td class="l data" style=" width: 12cm;">POSE CATHÉ RELIÉ À 1VN PROF. MB SUP/COU TRANSCUT+DIFFUSEUR SSCUT.</td>
+<td class="r data" style=" width: 2cm;">             3 738</td>
+<td class="r data" style=" width: 2cm;">                11,2 %</td>
+<td class="r data" style=" width: 2cm;">             20,34</td>
+<td class="c data" style=" width: 2cm;">NON</td>
+</tr>
+<tr>
+<td class="c data" style=" width: 1cm;">        4</td>
+<td class="c data" style=" width: 2cm;">HEQE002</td>
+<td class="l data" style=" width: 12cm;">ENDOS. O.G.D</td>
+<td class="r data" style=" width: 2cm;">             1 539</td>
+<td class="r data" style=" width: 2cm;">                 4,6 %</td>
+<td class="r data" style=" width: 2cm;">             17,98</td>
+<td class="c data" style=" width: 2cm;">NON</td>
+</tr>
+<tr>
+<td class="c data" style=" width: 1cm;">        5</td>
+<td class="c data" style=" width: 2cm;">GEQE004</td>
+<td class="l data" style=" width: 12cm;">FIBRO BR. +LBA</td>
+<td class="r data" style=" width: 2cm;">             1 384</td>
+<td class="r data" style=" width: 2cm;">                 4,2 %</td>
+<td class="r data" style=" width: 2cm;">             12,42</td>
+<td class="c data" style=" width: 2cm;">NON</td>
+</tr>
+<tr>
+<td class="c data" style=" width: 1cm;">        6</td>
+<td class="c data" style=" width: 2cm;">GEQE006</td>
+<td class="l data" style=" width: 12cm;">FIBRO BR. +BIOPSIE PULM. TRANSBRONCH. SANS GUID</td>
+<td class="r data" style=" width: 2cm;">             1 060</td>
+<td class="r data" style=" width: 2cm;">                 3,2 %</td>
+<td class="r data" style=" width: 2cm;">             13,50</td>
+<td class="c data" style=" width: 2cm;">NON</td>
+</tr>
+<tr>
+<td class="c data" style=" width: 1cm;">        7</td>
+<td class="c data" style=" width: 2cm;">GEQE002</td>
+<td class="l data" style=" width: 12cm;">FIBRO BR. +PRÉLÈV. GGL. À AIGUILLE TRANSBRONCH.</td>
+<td class="r data" style=" width: 2cm;">             1 024</td>
+<td class="r data" style=" width: 2cm;">                 3,1 %</td>
+<td class="r data" style=" width: 2cm;">              7,66</td>
+<td class="c data" style=" width: 2cm;">NON</td>
+</tr>
+<tr>
+<td class="c data" style=" width: 1cm;">        8</td>
+<td class="c data" style=" width: 2cm;">ZZLP054</td>
+<td class="l data" style=" width: 12cm;">AG/LR CPLMTAIRE NIVEAU 3</td>
+<td class="r data" style=" width: 2cm;">               632</td>
+<td class="r data" style=" width: 2cm;">                 1,9 %</td>
+<td class="r data" style=" width: 2cm;">              8,86</td>
+<td class="c data" style=" width: 2cm;">NON</td>
+</tr>
+<tr>
+<td class="c data" style=" width: 1cm;">        9</td>
+<td class="c data" style=" width: 2cm;">GLQP005</td>
+<td class="l data" style=" width: 12cm;">SPO2 PDT AU MOINS 6H</td>
+<td class="r data" style=" width: 2cm;">               464</td>
+<td class="r data" style=" width: 2cm;">                 1,4 %</td>
+<td class="r data" style=" width: 2cm;">             13,63</td>
+<td class="c data" style=" width: 2cm;">NON</td>
+</tr>
+<tr>
+<td class="c data" style=" width: 1cm;">       10</td>
+<td class="c data" style=" width: 2cm;">HLNK001</td>
+<td class="l data" style=" width: 12cm;">DESTRUC. TRANSCUT. T. HÉP. RADIOFRÉQUENCE GUID SCAN</td>
+<td class="r data" style=" width: 2cm;">               423</td>
+<td class="r data" style=" width: 2cm;">                 1,3 %</td>
+<td class="r data" style=" width: 2cm;">              3,44</td>
+<td class="c data" style=" width: 2cm;">NON</td>
+</tr>
+<tr>
+<td class="c data" style=" width: 1cm;">       11</td>
+<td class="c data" style=" width: 2cm;">GEQE010</td>
+<td class="l data" style=" width: 12cm;">FIBRO TRACHÉOBR +PHOTODÉTECTION LÉS FLUORESC SANS LASER</td>
+<td class="r data" style=" width: 2cm;">               422</td>
+<td class="r data" style=" width: 2cm;">                 1,3 %</td>
+<td class="r data" style=" width: 2cm;">             14,09</td>
+<td class="c data" style=" width: 2cm;">NON</td>
+</tr>
+<tr>
+<td class="c data" style=" width: 1cm;">       12</td>
+<td class="c data" style=" width: 2cm;">GEQE012</td>
+<td class="l data" style=" width: 12cm;">FIBRO BR. CHEZ INTUBÉ/TRACHÉOTOMISÉ</td>
+<td class="r data" style=" width: 2cm;">               353</td>
+<td class="r data" style=" width: 2cm;">                 1,1 %</td>
+<td class="r data" style=" width: 2cm;">             12,02</td>
+<td class="c data" style=" width: 2cm;">NON</td>
+</tr>
+<tr>
+<td class="c data" style=" width: 1cm;">       13</td>
+<td class="c data" style=" width: 2cm;">ZZNL063</td>
+<td class="l data" style=" width: 12cm;">IRRAD EXT/ACCEL LINEAIRE &gt;=5MV+IGRT</td>
+<td class="r data" style=" width: 2cm;">               342</td>
+<td class="r data" style=" width: 2cm;">                 1,0 %</td>
+<td class="r data" style=" width: 2cm;">             25,63</td>
+<td class="c data" style=" width: 2cm;">NON</td>
+</tr>
+<tr>
+<td class="c data" style=" width: 1cm;">       14</td>
+<td class="c data" style=" width: 2cm;">GCQE001</td>
+<td class="l data" style=" width: 12cm;">FIBRO PHARYNX +LARYNX V. NASALE</td>
+<td class="r data" style=" width: 2cm;">               324</td>
+<td class="r data" style=" width: 2cm;">                 1,0 %</td>
+<td class="r data" style=" width: 2cm;">             18,06</td>
+<td class="c data" style=" width: 2cm;">NON</td>
+</tr>
+<tr>
+<td class="c data" style=" width: 1cm;">       15</td>
+<td class="c data" style=" width: 2cm;">GENE001</td>
+<td class="l data" style=" width: 12cm;">DESTRUC. LÉS. TRACHÉOBRONCHIQUE BRONCHOSCOPIE AU TUBE RIGIDE</td>
+<td class="r data" style=" width: 2cm;">               285</td>
+<td class="r data" style=" width: 2cm;">                 0,9 %</td>
+<td class="r data" style=" width: 2cm;">              3,99</td>
+<td class="c data" style=" width: 2cm;">NON</td>
+</tr>
+<tr>
+<td class="c data" style=" width: 1cm;">       16</td>
+<td class="c data" style=" width: 2cm;">ZZMK018</td>
+<td class="l data" style=" width: 12cm;">REPÉR. SCAN. DOSI 3D +HDV BEV +FILTRE</td>
+<td class="r data" style=" width: 2cm;">               251</td>
+<td class="r data" style=" width: 2cm;">                 0,8 %</td>
+<td class="r data" style=" width: 2cm;">             30,95</td>
+<td class="c data" style=" width: 2cm;">NON</td>
+</tr>
+<tr>
+<td class="c data" style=" width: 1cm;">       17</td>
+<td class="c data" style=" width: 2cm;">GENE006</td>
+<td class="l data" style=" width: 12cm;">DESTRUC. LÉS. TRACHÉOBRONCH CRYO/THERMOCOAG TUBE RIGIDE</td>
+<td class="r data" style=" width: 2cm;">               249</td>
+<td class="r data" style=" width: 2cm;">                 0,7 %</td>
+<td class="r data" style=" width: 2cm;">              6,33</td>
+<td class="c data" style=" width: 2cm;">NON</td>
+</tr>
+<tr>
+<td class="c data" style=" width: 1cm;">       18</td>
+<td class="c data" style=" width: 2cm;">GEQE008</td>
+<td class="l data" style=" width: 12cm;">BRONCHOSCOPIE AU TUBE RIGIDE</td>
+<td class="r data" style=" width: 2cm;">               247</td>
+<td class="r data" style=" width: 2cm;">                 0,7 %</td>
+<td class="r data" style=" width: 2cm;">              5,43</td>
+<td class="c data" style=" width: 2cm;">NON</td>
+</tr>
+<tr>
+<td class="c data" style=" width: 1cm;">       19</td>
+<td class="c data" style=" width: 2cm;">GEJE001</td>
+<td class="l data" style=" width: 12cm;">ASPI THÉRAP. FIBRO</td>
+<td class="r data" style=" width: 2cm;">               242</td>
+<td class="r data" style=" width: 2cm;">                 0,7 %</td>
+<td class="r data" style=" width: 2cm;">             16,92</td>
+<td class="c data" style=" width: 2cm;">NON</td>
+</tr>
+<tr>
+<td class="c data" style=" width: 1cm;">       20</td>
+<td class="c data" style=" width: 2cm;">GELE008</td>
+<td class="l data" style=" width: 12cm;">POSE 1ENDOPROTH. TRACHÉOBRONCHIQUE ENDOS.</td>
+<td class="r data" style=" width: 2cm;">               238</td>
+<td class="r data" style=" width: 2cm;">                 0,7 %</td>
+<td class="r data" style=" width: 2cm;">              7,76</td>
+<td class="c data" style=" width: 2cm;">NON</td>
+</tr>
+<tr>
+<td class="c data" style=" width: 1cm;">       21</td>
+<td class="c data" style=" width: 2cm;">GELE005</td>
+<td class="l data" style=" width: 12cm;">INSTILLATION THÉR. FIBRO</td>
+<td class="r data" style=" width: 2cm;">               227</td>
+<td class="r data" style=" width: 2cm;">                 0,7 %</td>
+<td class="r data" style=" width: 2cm;">             13,78</td>
+<td class="c data" style=" width: 2cm;">NON</td>
+</tr>
+<tr>
+<td class="c data" style=" width: 1cm;">       22</td>
+<td class="c data" style=" width: 2cm;">GAQE001</td>
+<td class="l data" style=" width: 12cm;">ENDOS. CAV. NASALE +RHINOPHARYNX V. NASALE</td>
+<td class="r data" style=" width: 2cm;">               226</td>
+<td class="r data" style=" width: 2cm;">                 0,7 %</td>
+<td class="r data" style=" width: 2cm;">             18,64</td>
+<td class="c data" style=" width: 2cm;">NON</td>
+</tr>
+<tr>
+<td class="c data" style=" width: 1cm;">       23</td>
+<td class="c data" style=" width: 2cm;">HHQE005</td>
+<td class="l data" style=" width: 12cm;">COLO. TOT. +BAS-FOND CÆCAL SANS FRANCHISST ILÉOCOLIQUE</td>
+<td class="r data" style=" width: 2cm;">               220</td>
+<td class="r data" style=" width: 2cm;">                 0,7 %</td>
+<td class="r data" style=" width: 2cm;">             15,56</td>
+<td class="c data" style=" width: 2cm;">NON</td>
+</tr>
+<tr>
+<td class="c data" style=" width: 1cm;">       24</td>
+<td class="c data" style=" width: 2cm;">GEQE003</td>
+<td class="l data" style=" width: 12cm;">FIBRO TRACHÉOBRONCHIQUE +PHOTODÉTECTION LÉS. AUTOFLUORESCENCE LASER</td>
+<td class="r data" style=" width: 2cm;">               203</td>
+<td class="r data" style=" width: 2cm;">                 0,6 %</td>
+<td class="r data" style=" width: 2cm;">              5,75</td>
+<td class="c data" style=" width: 2cm;">NON</td>
+</tr>
+<tr>
+<td class="c data" style=" width: 1cm;">       25</td>
+<td class="c data" style=" width: 2cm;">GDQE004</td>
+<td class="l data" style=" width: 12cm;">FIBRO LARYNX +TRACHÉE</td>
+<td class="r data" style=" width: 2cm;">               199</td>
+<td class="r data" style=" width: 2cm;">                 0,6 %</td>
+<td class="r data" style=" width: 2cm;">             16,97</td>
+<td class="c data" style=" width: 2cm;">NON</td>
+</tr>
+<tr>
+<td class="c data" style=" width: 1cm;">       26</td>
+<td class="c data" style=" width: 2cm;">HEQJ002</td>
+<td class="l data" style=" width: 12cm;">ÉCHOENDOS OESOGASTR. +BIOPSIE TRANSOESOGASTRIQUE GUIDÉE</td>
+<td class="r data" style=" width: 2cm;">               184</td>
+<td class="r data" style=" width: 2cm;">                 0,6 %</td>
+<td class="r data" style=" width: 2cm;">              4,05</td>
+<td class="c data" style=" width: 2cm;">NON</td>
+</tr>
+<tr>
+<td class="c data" style=" width: 1cm;">       27</td>
+<td class="c data" style=" width: 2cm;">HJQE001</td>
+<td class="l data" style=" width: 12cm;">COLO.</td>
+<td class="r data" style=" width: 2cm;">               170</td>
+<td class="r data" style=" width: 2cm;">                 0,5 %</td>
+<td class="r data" style=" width: 2cm;">             19,32</td>
+<td class="c data" style=" width: 2cm;">NON</td>
+</tr>
+<tr>
+<td class="c data" style=" width: 1cm;">       28</td>
+<td class="c data" style=" width: 2cm;">ZZNL065</td>
+<td class="l data" style=" width: 12cm;">IRRAD EXT/ACCEL LINEAIRE &gt;=5MV+COLLIMATEUR+IMAG PORT</td>
+<td class="r data" style=" width: 2cm;">               168</td>
+<td class="r data" style=" width: 2cm;">                 0,5 %</td>
+<td class="r data" style=" width: 2cm;">             25,09</td>
+<td class="c data" style=" width: 2cm;">NON</td>
+</tr>
+<tr>
+<td class="c data" style=" width: 1cm;">       29</td>
+<td class="c data" style=" width: 2cm;">GLQP007</td>
+<td class="l data" style=" width: 12cm;">POLYGRAPHIE RESP. NOCTURNE</td>
+<td class="r data" style=" width: 2cm;">               143</td>
+<td class="r data" style=" width: 2cm;">                 0,4 %</td>
+<td class="r data" style=" width: 2cm;">             12,57</td>
+<td class="c data" style=" width: 2cm;">NON</td>
+</tr>
+<tr>
+<td class="c data" style=" width: 1cm;">       30</td>
+<td class="c data" style=" width: 2cm;">GENE004</td>
+<td class="l data" style=" width: 12cm;">DESTRUC. LÉS. TRACHÉOBRONCHIQUE LASER BRONCHOSCOPIE AU TUBE RIGIDE</td>
+<td class="r data" style=" width: 2cm;">               137</td>
+<td class="r data" style=" width: 2cm;">                 0,4 %</td>
+<td class="r data" style=" width: 2cm;">              4,81</td>
+<td class="c data" style=" width: 2cm;">NON</td>
+</tr>
+<tr>
+<td class="c data" style=" width: 1cm;">       31</td>
+<td class="c data" style=" width: 2cm;">GENE005</td>
+<td class="l data" style=" width: 12cm;">DESTRUC. LÉS. TRACHÉOBRONCHIQUE CRYO/THERMOCOAG FIBRO</td>
+<td class="r data" style=" width: 2cm;">               122</td>
+<td class="r data" style=" width: 2cm;">                 0,4 %</td>
+<td class="r data" style=" width: 2cm;">              7,89</td>
+<td class="c data" style=" width: 2cm;">NON</td>
+</tr>
+<tr>
+<td class="c data" style=" width: 1cm;">       32</td>
+<td class="c data" style=" width: 2cm;">GEQE009</td>
+<td class="l data" style=" width: 12cm;">FIBRO BR. +LBA CHEZ INTUBÉ/TRACHÉOTOMISÉ</td>
+<td class="r data" style=" width: 2cm;">               119</td>
+<td class="r data" style=" width: 2cm;">                 0,4 %</td>
+<td class="r data" style=" width: 2cm;">             16,19</td>
+<td class="c data" style=" width: 2cm;">NON</td>
+</tr>
+<tr>
+<td class="c data" style=" width: 1cm;">       33</td>
+<td class="c data" style=" width: 2cm;">GELE001</td>
+<td class="l data" style=" width: 12cm;">INTUB. FIBRO/DISPOSITIF LARYNGÉ PARTICULIER PDT 1AG</td>
+<td class="r data" style=" width: 2cm;">                98</td>
+<td class="r data" style=" width: 2cm;">                 0,3 %</td>
+<td class="r data" style=" width: 2cm;">              8,68</td>
+<td class="c data" style=" width: 2cm;">NON</td>
+</tr>
+<tr>
+<td class="c data" style=" width: 1cm;">       34</td>
+<td class="c data" style=" width: 2cm;">ZZLP030</td>
+<td class="l data" style=" width: 12cm;">AG/LR CPLMTAIRE NIVEAU 2</td>
+<td class="r data" style=" width: 2cm;">                76</td>
+<td class="r data" style=" width: 2cm;">                 0,2 %</td>
+<td class="r data" style=" width: 2cm;">             10,87</td>
+<td class="c data" style=" width: 2cm;">NON</td>
+</tr>
+<tr>
+<td class="c data" style=" width: 1cm;">       35</td>
+<td class="c data" style=" width: 2cm;">GEQH002</td>
+<td class="l data" style=" width: 12cm;">FIBRO BR. +BIOPSIE PULM. TRANSBRONCH. GUID RADIO</td>
+<td class="r data" style=" width: 2cm;">                72</td>
+<td class="r data" style=" width: 2cm;">                 0,2 %</td>
+<td class="r data" style=" width: 2cm;">              9,47</td>
+<td class="c data" style=" width: 2cm;">NON</td>
+</tr>
+<tr>
+<td class="c data" style=" width: 1cm;">       36</td>
+<td class="c data" style=" width: 2cm;">HMQJ002</td>
+<td class="l data" style=" width: 12cm;">ÉCHOENDOS BIL.PANCR. +BIOPSIE TRANSBILIOPANCRÉATIQUE GUIDÉE</td>
+<td class="r data" style=" width: 2cm;">                71</td>
+<td class="r data" style=" width: 2cm;">                 0,2 %</td>
+<td class="r data" style=" width: 2cm;">              9,23</td>
+<td class="c data" style=" width: 2cm;">NON</td>
+</tr>
+<tr>
+<td class="c data" style=" width: 1cm;">       37</td>
+<td class="c data" style=" width: 2cm;">DHAF001</td>
+<td class="l data" style=" width: 12cm;">DILAT. INTRALUMINALE VCSUP +STENT V.V</td>
+<td class="r data" style=" width: 2cm;">                67</td>
+<td class="r data" style=" width: 2cm;">                 0,2 %</td>
+<td class="r data" style=" width: 2cm;">             19,10</td>
+<td class="c data" style=" width: 2cm;">NON</td>
+</tr>
+<tr>
+<td class="c data" style=" width: 1cm;">       38</td>
+<td class="c data" style=" width: 2cm;">JVJF004</td>
+<td class="l data" style=" width: 12cm;">SÉANCE HÉMODIALYSE PR IRC</td>
+<td class="r data" style=" width: 2cm;">                62</td>
+<td class="r data" style=" width: 2cm;">                 0,2 %</td>
+<td class="r data" style=" width: 2cm;">             17,55</td>
+<td class="c data" style=" width: 2cm;">NON</td>
+</tr>
+<tr>
+<td class="c data" style=" width: 1cm;">       39</td>
+<td class="c data" style=" width: 2cm;">ECSF006</td>
+<td class="l data" style=" width: 12cm;">EMBOL. SUP.SÉLECT ART. À DESTINATION BR/PL.PULM CATHÉ ART.</td>
+<td class="r data" style=" width: 2cm;">                59</td>
+<td class="r data" style=" width: 2cm;">                 0,2 %</td>
+<td class="r data" style=" width: 2cm;">              6,20</td>
+<td class="c data" style=" width: 2cm;">NON</td>
+</tr>
+<tr>
+<td class="c data" style=" width: 1cm;">       40</td>
+<td class="c data" style=" width: 2cm;">HHQE002</td>
+<td class="l data" style=" width: 12cm;">COLO. TOT. +FRANCHISSEMENT ORIFICE ILÉOCOLIQUE</td>
+<td class="r data" style=" width: 2cm;">                58</td>
+<td class="r data" style=" width: 2cm;">                 0,2 %</td>
+<td class="r data" style=" width: 2cm;">             16,45</td>
+<td class="c data" style=" width: 2cm;">NON</td>
+</tr>
+<tr>
+<td class="c data" style=" width: 1cm;">       41</td>
+<td class="c data" style=" width: 2cm;">HHFE002</td>
+<td class="l data" style=" width: 12cm;">EXÉRÈSE 1À 3POLYPES &lt;1CM CÔLON +/- RECTUM COLO. TOT.</td>
+<td class="r data" style=" width: 2cm;">                56</td>
+<td class="r data" style=" width: 2cm;">                 0,2 %</td>
+<td class="r data" style=" width: 2cm;">             17,77</td>
+<td class="c data" style=" width: 2cm;">NON</td>
+</tr>
+<tr>
+<td class="c data" style=" width: 1cm;">       42</td>
+<td class="c data" style=" width: 2cm;">HELE002</td>
+<td class="l data" style=" width: 12cm;">POSE 1ENDOPROTH. OESOPH. ENDOS.</td>
+<td class="r data" style=" width: 2cm;">                56</td>
+<td class="r data" style=" width: 2cm;">                 0,2 %</td>
+<td class="r data" style=" width: 2cm;">             19,45</td>
+<td class="c data" style=" width: 2cm;">NON</td>
+</tr>
+<tr>
+<td class="c data" style=" width: 1cm;">       43</td>
+<td class="c data" style=" width: 2cm;">GEQE013</td>
+<td class="l data" style=" width: 12cm;">EXAM. PANENDOSCOPIQUE DES VADS +TRACHÉOSCOPIE +OESOPHAGOSCOPIE</td>
+<td class="r data" style=" width: 2cm;">                55</td>
+<td class="r data" style=" width: 2cm;">                 0,2 %</td>
+<td class="r data" style=" width: 2cm;">              9,29</td>
+<td class="c data" style=" width: 2cm;">NON</td>
+</tr>
+<tr>
+<td class="c data" style=" width: 1cm;">       44</td>
+<td class="c data" style=" width: 2cm;">HHQE004</td>
+<td class="l data" style=" width: 12cm;">COLO AU DELÀ CÔLON SIGMOÏDE</td>
+<td class="r data" style=" width: 2cm;">                54</td>
+<td class="r data" style=" width: 2cm;">                 0,2 %</td>
+<td class="r data" style=" width: 2cm;">             18,61</td>
+<td class="c data" style=" width: 2cm;">NON</td>
+</tr>
+<tr>
+<td class="c data" style=" width: 1cm;">       45</td>
+<td class="c data" style=" width: 2cm;">HFCB001</td>
+<td class="l data" style=" width: 12cm;">GASTROSTOMIE TRANSCUT. +GUID ENDOS.</td>
+<td class="r data" style=" width: 2cm;">                46</td>
+<td class="r data" style=" width: 2cm;">                 0,1 %</td>
+<td class="r data" style=" width: 2cm;">             26,93</td>
+<td class="c data" style=" width: 2cm;">NON</td>
+</tr>
+<tr>
+<td class="c data" style=" width: 1cm;">       46</td>
+<td class="c data" style=" width: 2cm;">HMQJ001</td>
+<td class="l data" style=" width: 12cm;">ÉCHOENDOS BIL.PANCR. SANS BIOPSIE</td>
+<td class="r data" style=" width: 2cm;">                45</td>
+<td class="r data" style=" width: 2cm;">                 0,1 %</td>
+<td class="r data" style=" width: 2cm;">              7,56</td>
+<td class="c data" style=" width: 2cm;">NON</td>
+</tr>
+<tr>
+<td class="c data" style=" width: 1cm;">       47</td>
+<td class="c data" style=" width: 2cm;">ECSF004</td>
+<td class="l data" style=" width: 12cm;">EMBOL. SÉLECT/H.SÉLECT ART. À DESTINATION BR/PL.PULM CATHÉ ART.</td>
+<td class="r data" style=" width: 2cm;">                42</td>
+<td class="r data" style=" width: 2cm;">                 0,1 %</td>
+<td class="r data" style=" width: 2cm;">             15,00</td>
+<td class="c data" style=" width: 2cm;">NON</td>
+</tr>
+<tr>
+<td class="c data" style=" width: 1cm;">       48</td>
+<td class="c data" style=" width: 2cm;">JDQE001</td>
+<td class="l data" style=" width: 12cm;">FIBRO UR.VÉSIC</td>
+<td class="r data" style=" width: 2cm;">                40</td>
+<td class="r data" style=" width: 2cm;">                 0,1 %</td>
+<td class="r data" style=" width: 2cm;">             19,45</td>
+<td class="c data" style=" width: 2cm;">NON</td>
+</tr>
+<tr>
+<td class="c data" style=" width: 1cm;">       49</td>
+<td class="c data" style=" width: 2cm;">HEQJ001</td>
+<td class="l data" style=" width: 12cm;">ÉCHOENDOS OESOGASTR. SANS BIOPSIE</td>
+<td class="r data" style=" width: 2cm;">                38</td>
+<td class="r data" style=" width: 2cm;">                 0,1 %</td>
+<td class="r data" style=" width: 2cm;">              4,87</td>
+<td class="c data" style=" width: 2cm;">NON</td>
+</tr>
+<tr>
+<td class="c data" style=" width: 1cm;">       50</td>
+<td class="c data" style=" width: 2cm;">PDFA001</td>
+<td class="l data" style=" width: 12cm;">EXÉRÈSE LÉS. FASCIA+/-SSFASCIA TISSUS MOUS SANS DISSECTION VASC/NF</td>
+<td class="r data" style=" width: 2cm;">                36</td>
+<td class="r data" style=" width: 2cm;">                 0,1 %</td>
+<td class="r data" style=" width: 2cm;">             12,44</td>
+<td class="c data" style=" width: 2cm;">NON</td>
+</tr>
+</tbody>
+</table>
+</div>
+</div>
+<br><table class="systitleandfootercontainer" width="100%" cellspacing="1" cellpadding="1" rules="none" frame="void" summary="Page Layout"><tr>
+<td class="l systemfooter">Des résultats sont masqués en raison du secret statistique (effectif inférieur à 11).</td>
+</tr></table>
+<br>
+</div><a class="norm stats" href="https://www.scansante.fr/applications/statistiques-activite-MCO-par-GHM/submit?base=0&amp;annee=2014&amp;ghm=04M09&amp;tgeo=fe&amp;codegeo=99&amp;suite=acl" target="_blank">Voir la liste complète...</a><hr size="3">
+<br><a class="norm stats" href="#menu"> Retour au menu </a><a name="actenc"> <h1> Répartition des actes non classants</h1> </a><br><div class="branch">
+<a name="IDX"></a>
+<div>
+<div align="center">
+<table class="table" cellspacing="0" cellpadding="5" rules="all" frame="box" summary="Procedure Report: Detailed and/or summarized report">
+<colgroup>
+<col>
+<col>
+<col>
+<col>
+<col>
+<col>
+</colgroup>
+<thead><tr>
+<th class="c header" scope="col">Rang</th>
+<th class="c header" scope="col">Code</th>
+<th class="c header" scope="col">Libellé</th>
+<th class="c header" scope="col">Effectif</th>
+<th class="c header" scope="col">%</th>
+<th class="c header" scope="col">DMS</th>
+</tr></thead>
+<tbody>
+<tr>
+<td class="c data" style=" width: 1cm;">        1</td>
+<td class="c data" style=" width: 2cm;">ZBQK002</td>
+<td class="l data" style=" width: 12cm;">RX THOR.</td>
+<td class="r data" style=" width: 2cm;">            28 257</td>
+<td class="r data" style=" width: 2cm;">                12,2 %</td>
+<td class="r data" style=" width: 2cm;">             10,48</td>
+</tr>
+<tr>
+<td class="c data" style=" width: 1cm;">        2</td>
+<td class="c data" style=" width: 2cm;">YYYY600</td>
+<td class="l data" style=" width: 12cm;">SUP PR ARCHIVAGE NUMÉRIQUE 1 EXAM SCAN OU REMNO</td>
+<td class="r data" style=" width: 2cm;">            15 626</td>
+<td class="r data" style=" width: 2cm;">                 6,7 %</td>
+<td class="r data" style=" width: 2cm;">             11,20</td>
+</tr>
+<tr>
+<td class="c data" style=" width: 1cm;">        3</td>
+<td class="c data" style=" width: 2cm;">DEQP003</td>
+<td class="l data" style=" width: 12cm;">ECG SUR AU MOINS 12DÉRIV.</td>
+<td class="r data" style=" width: 2cm;">            10 336</td>
+<td class="r data" style=" width: 2cm;">                 4,5 %</td>
+<td class="r data" style=" width: 2cm;">             12,96</td>
+</tr>
+<tr>
+<td class="c data" style=" width: 1cm;">        4</td>
+<td class="c data" style=" width: 2cm;">GEHE001</td>
+<td class="l data" style=" width: 12cm;">BIOPSIE TRACH. +/- BR. PDT 1ENDOS. DIAG. DES V. AÉRIENNES</td>
+<td class="r data" style=" width: 2cm;">             6 436</td>
+<td class="r data" style=" width: 2cm;">                 2,8 %</td>
+<td class="r data" style=" width: 2cm;">             13,75</td>
+</tr>
+<tr>
+<td class="c data" style=" width: 1cm;">        5</td>
+<td class="c data" style=" width: 2cm;">ZBQH001</td>
+<td class="l data" style=" width: 12cm;">SCAN. THOR. +INJECT IV</td>
+<td class="r data" style=" width: 2cm;">             6 028</td>
+<td class="r data" style=" width: 2cm;">                 2,6 %</td>
+<td class="r data" style=" width: 2cm;">             14,09</td>
+</tr>
+<tr>
+<td class="c data" style=" width: 1cm;">        6</td>
+<td class="c data" style=" width: 2cm;">ZZHH008</td>
+<td class="l data" style=" width: 12cm;">BIOPSIE 1ORG. PROF. SUR 1CIBLE TRANSCUT. GUID SCAN</td>
+<td class="r data" style=" width: 2cm;">             5 990</td>
+<td class="r data" style=" width: 2cm;">                 2,6 %</td>
+<td class="r data" style=" width: 2cm;">              4,17</td>
+</tr>
+<tr>
+<td class="c data" style=" width: 1cm;">        7</td>
+<td class="c data" style=" width: 2cm;">ACQH003</td>
+<td class="l data" style=" width: 12cm;">SCAN. CRÂNE +INJECT IV</td>
+<td class="r data" style=" width: 2cm;">             5 204</td>
+<td class="r data" style=" width: 2cm;">                 2,2 %</td>
+<td class="r data" style=" width: 2cm;">             15,88</td>
+</tr>
+<tr>
+<td class="c data" style=" width: 1cm;">        8</td>
+<td class="c data" style=" width: 2cm;">DZQM006</td>
+<td class="l data" style=" width: 12cm;">DOPPLER COEUR +DES VSSX INTRATHOR.</td>
+<td class="r data" style=" width: 2cm;">             5 092</td>
+<td class="r data" style=" width: 2cm;">                 2,2 %</td>
+<td class="r data" style=" width: 2cm;">             15,73</td>
+</tr>
+<tr>
+<td class="c data" style=" width: 1cm;">        9</td>
+<td class="c data" style=" width: 2cm;">YYYY115</td>
+<td class="l data" style=" width: 12cm;">GUID SCAN</td>
+<td class="r data" style=" width: 2cm;">             5 054</td>
+<td class="r data" style=" width: 2cm;">                 2,2 %</td>
+<td class="r data" style=" width: 2cm;">              4,22</td>
+</tr>
+<tr>
+<td class="c data" style=" width: 1cm;">       10</td>
+<td class="c data" style=" width: 2cm;">ZZQX162</td>
+<td class="l data" style=" width: 12cm;">EXAM HISTOPATHOLOGIQUE BIOPSIE 1 STRUCT ANAT</td>
+<td class="r data" style=" width: 2cm;">             4 897</td>
+<td class="r data" style=" width: 2cm;">                 2,1 %</td>
+<td class="r data" style=" width: 2cm;">              7,98</td>
+</tr>
+<tr>
+<td class="c data" style=" width: 1cm;">       11</td>
+<td class="c data" style=" width: 2cm;">ZZQH033</td>
+<td class="l data" style=" width: 12cm;">SCAN. 3 TERRIT ANAT / PLUS + INJECT PROD CONTRAST</td>
+<td class="r data" style=" width: 2cm;">             4 627</td>
+<td class="r data" style=" width: 2cm;">                 2,0 %</td>
+<td class="r data" style=" width: 2cm;">             13,76</td>
+</tr>
+<tr>
+<td class="c data" style=" width: 1cm;">       12</td>
+<td class="c data" style=" width: 2cm;">ZBQK001</td>
+<td class="l data" style=" width: 12cm;">SCAN. THOR. SANS INJ. IV PROD. CONTRASTE</td>
+<td class="r data" style=" width: 2cm;">             4 544</td>
+<td class="r data" style=" width: 2cm;">                 2,0 %</td>
+<td class="r data" style=" width: 2cm;">              9,78</td>
+</tr>
+<tr>
+<td class="c data" style=" width: 1cm;">       13</td>
+<td class="c data" style=" width: 2cm;">GLHF001</td>
+<td class="l data" style=" width: 12cm;">GDS (PRÉLÈV+MESURES+PH) SANS ÉPREUVE HYPEROXIE</td>
+<td class="r data" style=" width: 2cm;">             4 523</td>
+<td class="r data" style=" width: 2cm;">                 1,9 %</td>
+<td class="r data" style=" width: 2cm;">             12,95</td>
+</tr>
+<tr>
+<td class="c data" style=" width: 1cm;">       14</td>
+<td class="c data" style=" width: 2cm;">ZZQP004</td>
+<td class="l data" style=" width: 12cm;">RESTITUTION 3D DES IMAGES ACQUISES SCAN.</td>
+<td class="r data" style=" width: 2cm;">             4 195</td>
+<td class="r data" style=" width: 2cm;">                 1,8 %</td>
+<td class="r data" style=" width: 2cm;">             14,31</td>
+</tr>
+<tr>
+<td class="c data" style=" width: 1cm;">       15</td>
+<td class="c data" style=" width: 2cm;">ZCQH001</td>
+<td class="l data" style=" width: 12cm;">SCAN. ABD. +PELVIS +INJECT IV</td>
+<td class="r data" style=" width: 2cm;">             3 955</td>
+<td class="r data" style=" width: 2cm;">                 1,7 %</td>
+<td class="r data" style=" width: 2cm;">             15,90</td>
+</tr>
+<tr>
+<td class="c data" style=" width: 1cm;">       16</td>
+<td class="c data" style=" width: 2cm;">GLQP002</td>
+<td class="l data" style=" width: 12cm;">MESURE EFR PLÉTHYSMO.</td>
+<td class="r data" style=" width: 2cm;">             3 888</td>
+<td class="r data" style=" width: 2cm;">                 1,7 %</td>
+<td class="r data" style=" width: 2cm;">              9,28</td>
+</tr>
+<tr>
+<td class="c data" style=" width: 1cm;">       17</td>
+<td class="c data" style=" width: 2cm;">ZZQX027</td>
+<td class="l data" style=" width: 12cm;">ICC OU IHC PRÉLÈV CELL OU TISSUL FIXÉ +3 À 5AC SANS QUANT SIGNAL</td>
+<td class="r data" style=" width: 2cm;">             3 116</td>
+<td class="r data" style=" width: 2cm;">                 1,3 %</td>
+<td class="r data" style=" width: 2cm;">              8,10</td>
+</tr>
+<tr>
+<td class="c data" style=" width: 1cm;">       18</td>
+<td class="c data" style=" width: 2cm;">ZZQP140</td>
+<td class="l data" style=" width: 12cm;">EXAM IHC TISSU FIXÉ +1À 4AC SANS QUANT SIGNAL</td>
+<td class="r data" style=" width: 2cm;">             3 037</td>
+<td class="r data" style=" width: 2cm;">                 1,3 %</td>
+<td class="r data" style=" width: 2cm;">              8,97</td>
+</tr>
+<tr>
+<td class="c data" style=" width: 1cm;">       19</td>
+<td class="c data" style=" width: 2cm;">ACQK001</td>
+<td class="l data" style=" width: 12cm;">SCAN. CRÂNE</td>
+<td class="r data" style=" width: 2cm;">             2 282</td>
+<td class="r data" style=" width: 2cm;">                 1,0 %</td>
+<td class="r data" style=" width: 2cm;">             17,61</td>
+</tr>
+<tr>
+<td class="c data" style=" width: 1cm;">       20</td>
+<td class="c data" style=" width: 2cm;">YYYY300</td>
+<td class="l data" style=" width: 12cm;">SUPPL. IMAGERIE PR RADIO INTERV. AU BLOC OP.</td>
+<td class="r data" style=" width: 2cm;">             2 280</td>
+<td class="r data" style=" width: 2cm;">                 1,0 %</td>
+<td class="r data" style=" width: 2cm;">             18,19</td>
+</tr>
+<tr>
+<td class="c data" style=" width: 1cm;">       21</td>
+<td class="c data" style=" width: 2cm;">ZZQP162</td>
+<td class="l data" style=" width: 12cm;">ANAPATH BIOPSIE 1STRUCT ANAT</td>
+<td class="r data" style=" width: 2cm;">             2 249</td>
+<td class="r data" style=" width: 2cm;">                 1,0 %</td>
+<td class="r data" style=" width: 2cm;">              7,34</td>
+</tr>
+<tr>
+<td class="c data" style=" width: 1cm;">       22</td>
+<td class="c data" style=" width: 2cm;">ZZQX116</td>
+<td class="l data" style=" width: 12cm;">CYTO CULOT CEL 1/PLUS PRÉLV NON DIF LIQ+/-PROD PONCT STRUCT ANAT+PARAF</td>
+<td class="r data" style=" width: 2cm;">             2 243</td>
+<td class="r data" style=" width: 2cm;">                 1,0 %</td>
+<td class="r data" style=" width: 2cm;">             11,28</td>
+</tr>
+<tr>
+<td class="c data" style=" width: 1cm;">       23</td>
+<td class="c data" style=" width: 2cm;">ZZQL016</td>
+<td class="l data" style=" width: 12cm;">TOMOSCINTI CORPS ENTIER TEP</td>
+<td class="r data" style=" width: 2cm;">             2 234</td>
+<td class="r data" style=" width: 2cm;">                 1,0 %</td>
+<td class="r data" style=" width: 2cm;">             15,53</td>
+</tr>
+<tr>
+<td class="c data" style=" width: 1cm;">       24</td>
+<td class="c data" style=" width: 2cm;">ACQJ002</td>
+<td class="l data" style=" width: 12cm;">IRM CRÂNE +INJECT IV</td>
+<td class="r data" style=" width: 2cm;">             2 216</td>
+<td class="r data" style=" width: 2cm;">                 1,0 %</td>
+<td class="r data" style=" width: 2cm;">             15,56</td>
+</tr>
+<tr>
+<td class="c data" style=" width: 1cm;">       25</td>
+<td class="c data" style=" width: 2cm;">GGJB002</td>
+<td class="l data" style=" width: 12cm;">ÉVAC. 1ÉPANCHEMENT CAV. PLEURALE TRANSCUT. SANS GUID</td>
+<td class="r data" style=" width: 2cm;">             2 179</td>
+<td class="r data" style=" width: 2cm;">                 0,9 %</td>
+<td class="r data" style=" width: 2cm;">             12,45</td>
+</tr>
+<tr>
+<td class="c data" style=" width: 1cm;">       26</td>
+<td class="c data" style=" width: 2cm;">ZZHH006</td>
+<td class="l data" style=" width: 12cm;">PCT 1ORG. PROF. SUR 1CIBLE TRANSCUT. GUID SCAN</td>
+<td class="r data" style=" width: 2cm;">             2 174</td>
+<td class="r data" style=" width: 2cm;">                 0,9 %</td>
+<td class="r data" style=" width: 2cm;">              5,29</td>
+</tr>
+<tr>
+<td class="c data" style=" width: 1cm;">       27</td>
+<td class="c data" style=" width: 2cm;">ECQH010</td>
+<td class="l data" style=" width: 12cm;">SCAN. DES VSSX THOR. +/- COEUR</td>
+<td class="r data" style=" width: 2cm;">             2 017</td>
+<td class="r data" style=" width: 2cm;">                 0,9 %</td>
+<td class="r data" style=" width: 2cm;">             14,04</td>
+</tr>
+<tr>
+<td class="c data" style=" width: 1cm;">       28</td>
+<td class="c data" style=" width: 2cm;">ZZQP101</td>
+<td class="l data" style=" width: 12cm;">ANAPATH BIOPSIE MUQ 1STRUCT ANAT</td>
+<td class="r data" style=" width: 2cm;">             1 981</td>
+<td class="r data" style=" width: 2cm;">                 0,9 %</td>
+<td class="r data" style=" width: 2cm;">             12,81</td>
+</tr>
+<tr>
+<td class="c data" style=" width: 1cm;">       29</td>
+<td class="c data" style=" width: 2cm;">ZZQX128</td>
+<td class="l data" style=" width: 12cm;">CYTO ÉTALEMENT 1 PRÉLÈV/PLUS. PRÉLÈV NON DIFF LIQUIDE STRUCT ANAT</td>
+<td class="r data" style=" width: 2cm;">             1 854</td>
+<td class="r data" style=" width: 2cm;">                 0,8 %</td>
+<td class="r data" style=" width: 2cm;">             13,13</td>
+</tr>
+<tr>
+<td class="c data" style=" width: 1cm;">       30</td>
+<td class="c data" style=" width: 2cm;">DEQP007</td>
+<td class="l data" style=" width: 12cm;">SCOPE/TÉLÉECG CONTINU +SURV. PRESS ART+/-SAO2 NON EFFRACTIVES/24H</td>
+<td class="r data" style=" width: 2cm;">             1 694</td>
+<td class="r data" style=" width: 2cm;">                 0,7 %</td>
+<td class="r data" style=" width: 2cm;">             15,22</td>
+</tr>
+<tr>
+<td class="c data" style=" width: 1cm;">       31</td>
+<td class="c data" style=" width: 2cm;">GLLD017</td>
+<td class="l data" style=" width: 12cm;">O2THÉR. +SURV. CONTINUE OXYMÉTRIE SF VENTIL/24H</td>
+<td class="r data" style=" width: 2cm;">             1 675</td>
+<td class="r data" style=" width: 2cm;">                 0,7 %</td>
+<td class="r data" style=" width: 2cm;">             14,85</td>
+</tr>
+<tr>
+<td class="c data" style=" width: 1cm;">       32</td>
+<td class="c data" style=" width: 2cm;">ZZQX069</td>
+<td class="l data" style=" width: 12cm;">ICC OU IHC PRÉLÈV CELL OU TISSUL FIXÉ +1 À 2A SANS QUANT SIGNAL</td>
+<td class="r data" style=" width: 2cm;">             1 655</td>
+<td class="r data" style=" width: 2cm;">                 0,7 %</td>
+<td class="r data" style=" width: 2cm;">              8,02</td>
+</tr>
+<tr>
+<td class="c data" style=" width: 1cm;">       33</td>
+<td class="c data" style=" width: 2cm;">GERD001</td>
+<td class="l data" style=" width: 12cm;">ÉPREUVE PHARMACODYNAMIQUE AGENT BR.DILAT. PDT 1EFR</td>
+<td class="r data" style=" width: 2cm;">             1 585</td>
+<td class="r data" style=" width: 2cm;">                 0,7 %</td>
+<td class="r data" style=" width: 2cm;">             10,60</td>
+</tr>
+<tr>
+<td class="c data" style=" width: 1cm;">       34</td>
+<td class="c data" style=" width: 2cm;">FELF011</td>
+<td class="l data" style=" width: 12cm;">TRANSFU. CG 1&lt;1/2MASSE</td>
+<td class="r data" style=" width: 2cm;">             1 470</td>
+<td class="r data" style=" width: 2cm;">                 0,6 %</td>
+<td class="r data" style=" width: 2cm;">             19,11</td>
+</tr>
+<tr>
+<td class="c data" style=" width: 1cm;">       35</td>
+<td class="c data" style=" width: 2cm;">EJQM003</td>
+<td class="l data" style=" width: 12cm;">DOPPLER VN MB INF. +VN ILIAQUES PR RECH. THROMBOSE VN PROF.</td>
+<td class="r data" style=" width: 2cm;">             1 370</td>
+<td class="r data" style=" width: 2cm;">                 0,6 %</td>
+<td class="r data" style=" width: 2cm;">             18,61</td>
+</tr>
+<tr>
+<td class="c data" style=" width: 1cm;">       36</td>
+<td class="c data" style=" width: 2cm;">ZZQK002</td>
+<td class="l data" style=" width: 12cm;">RX AU LIT SELON 1/2INCIDENCES</td>
+<td class="r data" style=" width: 2cm;">             1 339</td>
+<td class="r data" style=" width: 2cm;">                 0,6 %</td>
+<td class="r data" style=" width: 2cm;">             12,93</td>
+</tr>
+<tr>
+<td class="c data" style=" width: 1cm;">       37</td>
+<td class="c data" style=" width: 2cm;">ZZQP116</td>
+<td class="l data" style=" width: 12cm;">CYTO ÉTAL LIQUIDE 1STRUCT ANAT +INCLUS PARAFF</td>
+<td class="r data" style=" width: 2cm;">             1 327</td>
+<td class="r data" style=" width: 2cm;">                 0,6 %</td>
+<td class="r data" style=" width: 2cm;">             13,53</td>
+</tr>
+<tr>
+<td class="c data" style=" width: 1cm;">       38</td>
+<td class="c data" style=" width: 2cm;">ZCQK002</td>
+<td class="l data" style=" width: 12cm;">RX ABD. SANS PRÉPA.</td>
+<td class="r data" style=" width: 2cm;">             1 327</td>
+<td class="r data" style=" width: 2cm;">                 0,6 %</td>
+<td class="r data" style=" width: 2cm;">             19,50</td>
+</tr>
+<tr>
+<td class="c data" style=" width: 1cm;">       39</td>
+<td class="c data" style=" width: 2cm;">ZZQX081</td>
+<td class="l data" style=" width: 12cm;">ICC OU IHC PRÉLÈV CELL OU TISSUL FIXÉ +1 À 2AC +QUANT SIGNAL PR//AC</td>
+<td class="r data" style=" width: 2cm;">             1 220</td>
+<td class="r data" style=" width: 2cm;">                 0,5 %</td>
+<td class="r data" style=" width: 2cm;">              8,63</td>
+</tr>
+<tr>
+<td class="c data" style=" width: 1cm;">       40</td>
+<td class="c data" style=" width: 2cm;">ZZQP114</td>
+<td class="l data" style=" width: 12cm;">EXAM IHC TISSU FIXÉ +5AC/+ SANS QUANT SIGNAL</td>
+<td class="r data" style=" width: 2cm;">             1 209</td>
+<td class="r data" style=" width: 2cm;">                 0,5 %</td>
+<td class="r data" style=" width: 2cm;">             10,55</td>
+</tr>
+<tr>
+<td class="c data" style=" width: 1cm;">       41</td>
+<td class="c data" style=" width: 2cm;">YYYY076</td>
+<td class="l data" style=" width: 12cm;">MESURE TRANSFERT CO ÉTAT STABLE+APNÉE+1INSPIR/RÉINSPIR.</td>
+<td class="r data" style=" width: 2cm;">             1 205</td>
+<td class="r data" style=" width: 2cm;">                 0,5 %</td>
+<td class="r data" style=" width: 2cm;">              7,98</td>
+</tr>
+<tr>
+<td class="c data" style=" width: 1cm;">       42</td>
+<td class="c data" style=" width: 2cm;">GGHB001</td>
+<td class="l data" style=" width: 12cm;">PCT 1ÉPANCHEMENT PLEURAL SANS GUID</td>
+<td class="r data" style=" width: 2cm;">             1 158</td>
+<td class="r data" style=" width: 2cm;">                 0,5 %</td>
+<td class="r data" style=" width: 2cm;">             13,28</td>
+</tr>
+<tr>
+<td class="c data" style=" width: 1cm;">       43</td>
+<td class="c data" style=" width: 2cm;">PAQL003</td>
+<td class="l data" style=" width: 12cm;">SCINTI OS. CORPS ENTIER 1TEMPS</td>
+<td class="r data" style=" width: 2cm;">             1 155</td>
+<td class="r data" style=" width: 2cm;">                 0,5 %</td>
+<td class="r data" style=" width: 2cm;">             18,19</td>
+</tr>
+<tr>
+<td class="c data" style=" width: 1cm;">       44</td>
+<td class="c data" style=" width: 2cm;">ZZQP128</td>
+<td class="l data" style=" width: 12cm;">CYTO ÉTAL LIQUIDE 1STRUCT ANAT +PRÉLÈV NON DIFF</td>
+<td class="r data" style=" width: 2cm;">             1 151</td>
+<td class="r data" style=" width: 2cm;">                 0,5 %</td>
+<td class="r data" style=" width: 2cm;">             15,01</td>
+</tr>
+<tr>
+<td class="c data" style=" width: 1cm;">       45</td>
+<td class="c data" style=" width: 2cm;">GFQM001</td>
+<td class="l data" style=" width: 12cm;">ÉCHO TRANSTHOR. MÉDIAST. POUMON +/- CAV. PLEURALE</td>
+<td class="r data" style=" width: 2cm;">             1 143</td>
+<td class="r data" style=" width: 2cm;">                 0,5 %</td>
+<td class="r data" style=" width: 2cm;">             13,91</td>
+</tr>
+<tr>
+<td class="c data" style=" width: 1cm;">       46</td>
+<td class="c data" style=" width: 2cm;">ZCQM008</td>
+<td class="l data" style=" width: 12cm;">ÉCHO ABD.</td>
+<td class="r data" style=" width: 2cm;">             1 120</td>
+<td class="r data" style=" width: 2cm;">                 0,5 %</td>
+<td class="r data" style=" width: 2cm;">             16,82</td>
+</tr>
+<tr>
+<td class="c data" style=" width: 1cm;">       47</td>
+<td class="c data" style=" width: 2cm;">ZZQX077</td>
+<td class="l data" style=" width: 12cm;">EXAM HISTOPATHOLOGIQUE BIOPSIES ÉTAGÉES 1 STRUCT ANAT</td>
+<td class="r data" style=" width: 2cm;">             1 107</td>
+<td class="r data" style=" width: 2cm;">                 0,5 %</td>
+<td class="r data" style=" width: 2cm;">              9,89</td>
+</tr>
+<tr>
+<td class="c data" style=" width: 1cm;">       48</td>
+<td class="c data" style=" width: 2cm;">ZZQX034</td>
+<td class="l data" style=" width: 12cm;">ICC OU IHC PRÉLÈV CELL OU TISSUL FIXÉ +6 À 9AC SANS QUANT SIGNAL</td>
+<td class="r data" style=" width: 2cm;">             1 098</td>
+<td class="r data" style=" width: 2cm;">                 0,5 %</td>
+<td class="r data" style=" width: 2cm;">              9,03</td>
+</tr>
+<tr>
+<td class="c data" style=" width: 1cm;">       49</td>
+<td class="c data" style=" width: 2cm;">GGJB001</td>
+<td class="l data" style=" width: 12cm;">DRAINAGE 1ÉPANCHEMENT CAV. PLEURALE TRANSCUT. SANS GUID</td>
+<td class="r data" style=" width: 2cm;">             1 082</td>
+<td class="r data" style=" width: 2cm;">                 0,5 %</td>
+<td class="r data" style=" width: 2cm;">             14,62</td>
+</tr>
+<tr>
+<td class="c data" style=" width: 1cm;">       50</td>
+<td class="c data" style=" width: 2cm;">YYYY028</td>
+<td class="l data" style=" width: 12cm;">GUID ÉCHO</td>
+<td class="r data" style=" width: 2cm;">             1 053</td>
+<td class="r data" style=" width: 2cm;">                 0,5 %</td>
+<td class="r data" style=" width: 2cm;">             17,41</td>
+</tr>
+</tbody>
+</table>
+</div>
+</div>
+<br><table class="systitleandfootercontainer" width="100%" cellspacing="1" cellpadding="1" rules="none" frame="void" summary="Page Layout"><tr>
+<td class="l systemfooter">Des résultats sont masqués en raison du secret statistique (effectif inférieur à 11).</td>
+</tr></table>
+<br>
+</div><a class="norm stats" href="https://www.scansante.fr/applications/statistiques-activite-MCO-par-GHM/submit?base=0&amp;annee=2014&amp;ghm=04M09&amp;tgeo=fe&amp;codegeo=99&amp;suite=ancl" target="_blank">Voir la liste complète...</a></div></div>    </div>
+</div>
+            <script>var eu_cookie_compliance_cookie_name = "";</script>
+<script src="https://www.scansante.fr/sites/default/files/js/js_Llgek5Zasqh0wiimoKH-uIdmSIEO0i9Cbi7UdXEdRgw.js"></script>
+        </div>
+    </body>
+</html>
